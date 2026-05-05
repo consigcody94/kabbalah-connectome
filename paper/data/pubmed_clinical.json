@@ -1,0 +1,371 @@
+{
+  "thalamus_central_integrator": [
+    {
+      "pmid": "41336255",
+      "title": "Thalamus Parcellation Based on Evidence Accumulation Clustering Using dMRI Tractography.",
+      "year": "2025",
+      "authors": [
+        "Wang Z",
+        "Zhang X",
+        "Huang Y"
+      ],
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "doi": "10.1109/EMBC58623.2025.11253310"
+    },
+    {
+      "pmid": "37596042",
+      "title": "Mapping Essential Tremor to a Common Brain Network Using Functional Connectivity Analysis.",
+      "year": "2023",
+      "authors": [
+        "Younger E",
+        "Ellis EG",
+        "Parsons N"
+      ],
+      "venue": "Neurology",
+      "doi": "10.1212/WNL.0000000000207701"
+    },
+    {
+      "pmid": "37771522",
+      "title": "Sex differences in the structural rich-club connectivity in patients with Alzheimer's disease.",
+      "year": "2023",
+      "authors": [
+        "Kim SJ",
+        "Bae YJ",
+        "Park YH"
+      ],
+      "venue": "Frontiers in aging neuroscience",
+      "doi": "10.3389/fnagi.2023.1209027"
+    },
+    {
+      "pmid": "35812120",
+      "title": "Rich-Club Analysis of Structural Brain Network Alterations in HIV Positive Patients With Fully Suppressed Plasma Viral Loads.",
+      "year": "2022",
+      "authors": [
+        "Aili X",
+        "Wang W",
+        "Zhang A"
+      ],
+      "venue": "Frontiers in neurology",
+      "doi": "10.3389/fneur.2022.825177"
+    },
+    {
+      "pmid": "31812984",
+      "title": "Ketamine Restores Thalamic-Prefrontal Cortex Functional Connectivity in a Mouse Model of Neurodevelopmental Disorder-Associated 2p16.3 Deletion.",
+      "year": "2020",
+      "authors": [
+        "B Hughes R",
+        "Whittingham-Dowd J",
+        "Simmons RE"
+      ],
+      "venue": "Cerebral cortex (New York, N.Y. : 1991)",
+      "doi": "10.1093/cercor/bhz244"
+    }
+  ],
+  "amygdala_bilateral_integration": [
+    {
+      "pmid": "40309830",
+      "title": "The Bulb, the Brain and the Being: New Insights into Olfactory System Anatomy, Organization and Connectivity.",
+      "year": "2025",
+      "authors": [
+        "Stenwall A",
+        "Uggla AL",
+        "Weibust D"
+      ],
+      "venue": "Brain sciences",
+      "doi": "10.3390/brainsci15040368"
+    },
+    {
+      "pmid": "39509508",
+      "title": "The interhemispheric amygdala-accumbens circuit encodes negative valence in mice.",
+      "year": "2024",
+      "authors": [
+        "Tian Z",
+        "Song J",
+        "Zhao X"
+      ],
+      "venue": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.adp7520"
+    },
+    {
+      "pmid": "39227312",
+      "title": "Bilateral connections from the amygdala to extrastriate visual cortex in the marmoset monkey.",
+      "year": "2024",
+      "authors": [
+        "Teymornejad S",
+        "Majka P",
+        "Worthy KH"
+      ],
+      "venue": "Cerebral cortex (New York, N.Y. : 1991)",
+      "doi": "10.1093/cercor/bhae348"
+    },
+    {
+      "pmid": "33621637",
+      "title": "Dump the \"dimorphism\": Comprehensive synthesis of human brain studies reveals few male-female differences beyond size.",
+      "year": "2021",
+      "authors": [
+        "Eliot L",
+        "Ahmed A",
+        "Khan H"
+      ],
+      "venue": "Neuroscience and biobehavioral reviews",
+      "doi": "10.1016/j.neubiorev.2021.02.026"
+    },
+    {
+      "pmid": "31577954",
+      "title": "Interhemispheric Connectivity Potentiates the Basolateral Amygdalae and Regulates Social Interaction and Memory.",
+      "year": "2019",
+      "authors": [
+        "Huang TN",
+        "Hsu TT",
+        "Lin MH"
+      ],
+      "venue": "Cell reports",
+      "doi": "10.1016/j.celrep.2019.08.082"
+    }
+  ],
+  "precuneus_dmn_hub": [
+    {
+      "pmid": "42056591",
+      "title": "Functional Breakdown of Temporoparietal Junction Interaction in High-depression Individuals: Evidence from Multi-Metric Connectomics.",
+      "year": "2026",
+      "authors": [
+        "Wen X",
+        "Fengge Y",
+        "Han B"
+      ],
+      "venue": "Brain structure & function",
+      "doi": "10.1007/s00429-026-03089-6"
+    },
+    {
+      "pmid": "42013985",
+      "title": "Neuromarkers of post-traumatic stress disorder: A systematic review of positron emission tomography studies.",
+      "year": "2026",
+      "authors": [
+        "Lotfinia S",
+        "Mayeli S",
+        "Eiliaei S"
+      ],
+      "venue": "Neuroscience and biobehavioral reviews",
+      "doi": "10.1016/j.neubiorev.2026.106699"
+    },
+    {
+      "pmid": "41767150",
+      "title": "Quantitative susceptibility mapping of brain iron in adult ADHD.",
+      "year": "2026",
+      "authors": [
+        "Schulze M",
+        "Autenrieth E",
+        "Aslan B"
+      ],
+      "venue": "Frontiers in psychiatry",
+      "doi": "10.3389/fpsyt.2026.1735191"
+    },
+    {
+      "pmid": "41424171",
+      "title": "Heart Rate Variability Biofeedback Alleviates Subthreshold Depression by Reconstructing the Brain-Heart Axis via Habenular Network Functional Connectivity Modulation.",
+      "year": "2025",
+      "authors": [
+        "Xu X",
+        "Cao Y",
+        "Lin G"
+      ],
+      "venue": "CNS neuroscience & therapeutics",
+      "doi": "10.1002/cns.70692"
+    },
+    {
+      "pmid": "40160635",
+      "title": "White matter integrity of default mode network after a 3-month aerobic dance program in patients with amnestic mild cognitive impairment: a secondary analysis of a randomized clinical trial.",
+      "year": "2025",
+      "authors": [
+        "Wu H",
+        "Zhu Y",
+        "Yang X"
+      ],
+      "venue": "Quantitative imaging in medicine and surgery",
+      "doi": "10.21037/qims-24-1212"
+    }
+  ],
+  "thalamic_hub_consciousness": [
+    {
+      "pmid": "40881567",
+      "title": "Disintegration of Default Mode: Functional MRI Insights Into N,N-Dimethyltryptamine (DMT), Consciousness, and Subcortical Connectivity.",
+      "year": "2025",
+      "authors": [
+        "Avakian A"
+      ],
+      "venue": "Cureus",
+      "doi": "10.7759/cureus.88931"
+    },
+    {
+      "pmid": "40642212",
+      "title": "Thalamus and consciousness: a systematic review on thalamic nuclei associated with consciousness.",
+      "year": "2025",
+      "authors": [
+        "Cacciatore M",
+        "Magnani FG",
+        "Barbadoro F"
+      ],
+      "venue": "Frontiers in neurology",
+      "doi": "10.3389/fneur.2025.1509668"
+    },
+    {
+      "pmid": "40204075",
+      "title": "The changes in neural complexity and connectivity in thalamocortical and cortico-cortical systems after propofol-induced unconsciousness in different temporal scales.",
+      "year": "2025",
+      "authors": [
+        "Liang Z",
+        "Fan L",
+        "Zhang B"
+      ],
+      "venue": "NeuroImage",
+      "doi": "10.1016/j.neuroimage.2025.121193"
+    },
+    {
+      "pmid": "39986726",
+      "title": "Neuroscience of coma.",
+      "year": "2025",
+      "authors": [
+        "Qureshi AY",
+        "Stevens RD"
+      ],
+      "venue": "Handbook of clinical neurology",
+      "doi": "10.1016/B978-0-443-13408-1.00010-5"
+    },
+    {
+      "pmid": "39862011",
+      "title": "Neural Correlates of Social Touch Processing: An fMRI Study on Brain Functional Connectivity.",
+      "year": "2025",
+      "authors": [
+        "Khorev V",
+        "Kurkin S",
+        "Mayorova L"
+      ],
+      "venue": "Journal of integrative neuroscience",
+      "doi": "10.31083/JIN26280"
+    }
+  ],
+  "rich_club_brain": [
+    {
+      "pmid": "41749476",
+      "title": "Exploring the Role of the Rich Club in Network Control of Neurocognitive States.",
+      "year": "2026",
+      "authors": [
+        "Podschun AN",
+        "Betzel RF",
+        "Braun U"
+      ],
+      "venue": "Human brain mapping",
+      "doi": "10.1002/hbm.70485"
+    },
+    {
+      "pmid": "40221944",
+      "title": "Evolution of the Rich Club Properties in Mouse, Macaque, and Human Brain Networks: A Study of Functional Integration, Segregation, and Balance.",
+      "year": "2025",
+      "authors": [
+        "Zhang X",
+        "Song M",
+        "Jiang W"
+      ],
+      "venue": "Neuroscience bulletin",
+      "doi": "10.1007/s12264-025-01393-5"
+    },
+    {
+      "pmid": "39779695",
+      "title": "Premature birth changes wiring constraints in neonatal structural brain networks.",
+      "year": "2025",
+      "authors": [
+        "Mousley A",
+        "Akarca D",
+        "Astle DE"
+      ],
+      "venue": "Nature communications",
+      "doi": "10.1038/s41467-024-55178-x"
+    },
+    {
+      "pmid": "37816058",
+      "title": "The adaptive stochasticity hypothesis: Modeling equifinality, multifinality, and adaptation to adversity.",
+      "year": "2023",
+      "authors": [
+        "Carozza S",
+        "Akarca D",
+        "Astle D"
+      ],
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2307508120"
+    },
+    {
+      "pmid": "37423273",
+      "title": "Hub architecture of the human structural connectome: Links to aging and processing speed.",
+      "year": "2023",
+      "authors": [
+        "Li X",
+        "Salami A",
+        "Persson J"
+      ],
+      "venue": "NeuroImage",
+      "doi": "10.1016/j.neuroimage.2023.120270"
+    }
+  ],
+  "subcortical_hubs_topology": [
+    {
+      "pmid": "41771236",
+      "title": "Static and dynamic functional connectivity alterations in mice with LPS-induced depression: A 9.4T fMRI study using independent component and graph theory analyses.",
+      "year": "2026",
+      "authors": [
+        "Liu Y",
+        "Rao B",
+        "Zhou F"
+      ],
+      "venue": "Journal of psychiatric research",
+      "doi": "10.1016/j.jpsychires.2026.02.043"
+    },
+    {
+      "pmid": "41316227",
+      "title": "Early classification of functional connectomes in Parkinson's disease: a comparison of machine learning classifiers using multi-scale topological features.",
+      "year": "2025",
+      "authors": [
+        "Donisi L",
+        "Micco R",
+        "Pirozzi MA"
+      ],
+      "venue": "BMC medical informatics and decision making",
+      "doi": "10.1186/s12911-025-03303-1"
+    },
+    {
+      "pmid": "41218287",
+      "title": "Identification of essential tremor and dystonic tremor using Graph Convolutional Networks with multiple connectivity patterns.",
+      "year": "2026",
+      "authors": [
+        "Wang H",
+        "Zhao X",
+        "Xiao P"
+      ],
+      "venue": "Parkinsonism & related disorders",
+      "doi": "10.1016/j.parkreldis.2025.108104"
+    },
+    {
+      "pmid": "40821895",
+      "title": "Altered putamen connectivity in patients with neurological post-COVID condition.",
+      "year": "2025",
+      "authors": [
+        "Schlenker LS",
+        "Hartung TJ",
+        "Klabunn P"
+      ],
+      "venue": "Brain communications",
+      "doi": "10.1093/braincomms/fcaf291"
+    },
+    {
+      "pmid": "40384693",
+      "title": "Disrupted small-world networks in children with drug-naïve growth hormone deficiency: a DTI-based network analysis.",
+      "year": "2025",
+      "authors": [
+        "Alimire Y",
+        "Cheng Y",
+        "Qiu H"
+      ],
+      "venue": "Quantitative imaging in medicine and surgery",
+      "doi": "10.21037/qims-24-1927"
+    }
+  ]
+}

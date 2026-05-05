@@ -1,0 +1,452 @@
+[
+  {
+    "subject": "NKIENH_0103872_1_DTI_AAL",
+    "N": 116,
+    "E": 1049,
+    "d_joined_to_subject": 0.6975443633509475,
+    "d_random_to_subject_mean": 0.6019351009218722,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87185156_1_DTI_AAL",
+    "N": 116,
+    "E": 1503,
+    "d_joined_to_subject": 0.7629290820694955,
+    "d_random_to_subject_mean": 0.5770426018949335,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_GKS_1_DTI_AAL",
+    "N": 116,
+    "E": 1393,
+    "d_joined_to_subject": 0.7406711873447358,
+    "d_random_to_subject_mean": 0.6031195823704081,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025783_1_DTI_AAL",
+    "N": 116,
+    "E": 1566,
+    "d_joined_to_subject": 0.7408930010929901,
+    "d_random_to_subject_mean": 0.5839704551415303,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_7D5_1_DTI_AAL",
+    "N": 116,
+    "E": 1311,
+    "d_joined_to_subject": 0.7301453472115906,
+    "d_random_to_subject_mean": 0.5867697687417031,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_B4X_1_DTI_AAL",
+    "N": 116,
+    "E": 1528,
+    "d_joined_to_subject": 0.75030580736618,
+    "d_random_to_subject_mean": 0.5734763585981083,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87157297_1_DTI_AAL",
+    "N": 116,
+    "E": 1339,
+    "d_joined_to_subject": 0.7583620263945171,
+    "d_random_to_subject_mean": 0.5712128806111479,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_4YT_1_DTI_AAL",
+    "N": 116,
+    "E": 1518,
+    "d_joined_to_subject": 0.7362111916934689,
+    "d_random_to_subject_mean": 0.5733468053941383,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025863_2_DTI_AAL",
+    "N": 116,
+    "E": 1760,
+    "d_joined_to_subject": 0.7159291040223311,
+    "d_random_to_subject_mean": 0.5912913686001876,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87183294_1_DTI_AAL",
+    "N": 116,
+    "E": 1467,
+    "d_joined_to_subject": 0.7655382047057858,
+    "d_random_to_subject_mean": 0.5857312070661778,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_2HA_1_DTI_AAL",
+    "N": 116,
+    "E": 1357,
+    "d_joined_to_subject": 0.7370343812581287,
+    "d_random_to_subject_mean": 0.5788441646019509,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_FV9_1_DTI_AAL",
+    "N": 116,
+    "E": 1387,
+    "d_joined_to_subject": 0.7693158158798952,
+    "d_random_to_subject_mean": 0.5788335680906374,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_MCN_1_DTI_AAL",
+    "N": 116,
+    "E": 1180,
+    "d_joined_to_subject": 0.747497043488387,
+    "d_random_to_subject_mean": 0.6187735098566758,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87101967_1_DTI_AAL",
+    "N": 116,
+    "E": 1194,
+    "d_joined_to_subject": 0.7446887552259447,
+    "d_random_to_subject_mean": 0.6014383117922534,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0193358_1_DTI_AAL",
+    "N": 115,
+    "E": 1113,
+    "d_joined_to_subject": 0.7205765836300775,
+    "d_random_to_subject_mean": 0.606149435809534,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025816_1_DTI_AAL",
+    "N": 116,
+    "E": 1310,
+    "d_joined_to_subject": 0.711026335555703,
+    "d_random_to_subject_mean": 0.6092197577385868,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025673_1_DTI_AAL",
+    "N": 116,
+    "E": 1486,
+    "d_joined_to_subject": 0.7395801989308273,
+    "d_random_to_subject_mean": 0.578631367673464,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_XAM_1_DTI_AAL",
+    "N": 116,
+    "E": 1346,
+    "d_joined_to_subject": 0.7439173592781158,
+    "d_random_to_subject_mean": 0.5957495751954637,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_E5X_1_DTI_AAL",
+    "N": 116,
+    "E": 1630,
+    "d_joined_to_subject": 0.7576095023030083,
+    "d_random_to_subject_mean": 0.5846843680887699,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87178304_1_DTI_AAL",
+    "N": 116,
+    "E": 1339,
+    "d_joined_to_subject": 0.7833755102743228,
+    "d_random_to_subject_mean": 0.5694847046121574,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_CER_1_DTI_AAL",
+    "N": 116,
+    "E": 1570,
+    "d_joined_to_subject": 0.7755086581699108,
+    "d_random_to_subject_mean": 0.5853957709369019,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_GLH_1_DTI_AAL",
+    "N": 116,
+    "E": 1258,
+    "d_joined_to_subject": 0.7207553137614104,
+    "d_random_to_subject_mean": 0.5948284988601527,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025724_1_DTI_AAL",
+    "N": 116,
+    "E": 1693,
+    "d_joined_to_subject": 0.7373128569783991,
+    "d_random_to_subject_mean": 0.5994172917024189,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025774_2_DTI_AAL",
+    "N": 116,
+    "E": 1551,
+    "d_joined_to_subject": 0.7353022336651808,
+    "d_random_to_subject_mean": 0.5842003485447209,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0162251_1_DTI_AAL",
+    "N": 115,
+    "E": 1126,
+    "d_joined_to_subject": 0.7470765407314013,
+    "d_random_to_subject_mean": 0.616068901375495,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0166987_1_DTI_AAL",
+    "N": 116,
+    "E": 1219,
+    "d_joined_to_subject": 0.7273943086358289,
+    "d_random_to_subject_mean": 0.5836272505936145,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025729_2_DTI_AAL",
+    "N": 116,
+    "E": 1667,
+    "d_joined_to_subject": 0.7101163952889523,
+    "d_random_to_subject_mean": 0.5989375918808721,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0164385_1_DTI_AAL",
+    "N": 116,
+    "E": 1151,
+    "d_joined_to_subject": 0.7089326596745733,
+    "d_random_to_subject_mean": 0.596023617605896,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0187884_1_DTI_AAL",
+    "N": 116,
+    "E": 1223,
+    "d_joined_to_subject": 0.7288503790832902,
+    "d_random_to_subject_mean": 0.6055890433622964,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "HNU1_0025435_1_DTI_AAL",
+    "N": 116,
+    "E": 1731,
+    "d_joined_to_subject": 0.7776912475206843,
+    "d_random_to_subject_mean": 0.5668844218636337,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_W7G_1_DTI_AAL",
+    "N": 116,
+    "E": 1619,
+    "d_joined_to_subject": 0.7861764363681946,
+    "d_random_to_subject_mean": 0.564695532512139,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_Q4V_1_DTI_AAL",
+    "N": 116,
+    "E": 1345,
+    "d_joined_to_subject": 0.7312739963202028,
+    "d_random_to_subject_mean": 0.5943064243083095,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "HNU1_0025445_5_DTI_AAL",
+    "N": 115,
+    "E": 1711,
+    "d_joined_to_subject": 0.7870102542991434,
+    "d_random_to_subject_mean": 0.5675216846123539,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_HMC_1_DTI_AAL",
+    "N": 116,
+    "E": 1491,
+    "d_joined_to_subject": 0.752129913582751,
+    "d_random_to_subject_mean": 0.5948475933802563,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "SWU4_0025712_1_DTI_AAL",
+    "N": 113,
+    "E": 1499,
+    "d_joined_to_subject": 0.7510209885993266,
+    "d_random_to_subject_mean": 0.5576696301657084,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87153437_1_DTI_AAL",
+    "N": 116,
+    "E": 1719,
+    "d_joined_to_subject": 0.7335069027403759,
+    "d_random_to_subject_mean": 0.5877716797890716,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_KY9_1_DTI_AAL",
+    "N": 116,
+    "E": 1577,
+    "d_joined_to_subject": 0.7679973350775947,
+    "d_random_to_subject_mean": 0.566502680323116,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_ZW3_1_DTI_AAL",
+    "N": 116,
+    "E": 1531,
+    "d_joined_to_subject": 0.7670816417730552,
+    "d_random_to_subject_mean": 0.5682678237609446,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "HNU1_0025446_10_DTI_AAL",
+    "N": 115,
+    "E": 1670,
+    "d_joined_to_subject": 0.7902730695651187,
+    "d_random_to_subject_mean": 0.566572083341972,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_T1V_1_DTI_AAL",
+    "N": 116,
+    "E": 1719,
+    "d_joined_to_subject": 0.7608555574856812,
+    "d_random_to_subject_mean": 0.570597973234875,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "BNU1_0025920_2_DTI_AAL",
+    "N": 116,
+    "E": 1397,
+    "d_joined_to_subject": 0.721170372214269,
+    "d_random_to_subject_mean": 0.5879697984391922,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "NKIENH_0164093_1_DTI_AAL",
+    "N": 116,
+    "E": 938,
+    "d_joined_to_subject": 0.672215395551026,
+    "d_random_to_subject_mean": 0.6265048083655296,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_Y4S_1_DTI_AAL",
+    "N": 116,
+    "E": 1363,
+    "d_joined_to_subject": 0.7270902170096554,
+    "d_random_to_subject_mean": 0.5934456136957464,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_J59_1_DTI_AAL",
+    "N": 116,
+    "E": 1489,
+    "d_joined_to_subject": 0.7410283604224591,
+    "d_random_to_subject_mean": 0.5839022280871704,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "HNU1_0025428_4_DTI_AAL",
+    "N": 116,
+    "E": 1788,
+    "d_joined_to_subject": 0.7336160001471119,
+    "d_random_to_subject_mean": 0.5989750236622163,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_7DB_1_DTI_AAL",
+    "N": 116,
+    "E": 1286,
+    "d_joined_to_subject": 0.7778043027358694,
+    "d_random_to_subject_mean": 0.5595458591676643,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87101234_1_DTI_AAL",
+    "N": 116,
+    "E": 1336,
+    "d_joined_to_subject": 0.6902835290446663,
+    "d_random_to_subject_mean": 0.6214429700826919,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_SNQ_1_DTI_AAL",
+    "N": 116,
+    "E": 1325,
+    "d_joined_to_subject": 0.7329188679548486,
+    "d_random_to_subject_mean": 0.5931232476700133,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "MRN1313_KVQ_1_DTI_AAL",
+    "N": 116,
+    "E": 1360,
+    "d_joined_to_subject": 0.7272699146262535,
+    "d_random_to_subject_mean": 0.5756884529055146,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  },
+  {
+    "subject": "Jung2015_M87101049_1_DTI_AAL",
+    "N": 116,
+    "E": 1449,
+    "d_joined_to_subject": 0.7346166999936116,
+    "d_random_to_subject_mean": 0.5933002440076521,
+    "p_joined_at_least_as_close": 1.0,
+    "joined_beats_random": false
+  }
+]

@@ -1,0 +1,6 @@
+# prop_name, value
+name,macaque_neural
+description,A network of cortical regions in the Macaque cortex
+citation,"['M.P. Young, \"The organization of neural systems in the primate cerebral cortex.\" Proc. R. Soc. London B 252,13-18 (1993), http://www.jstor.org/stable/49912']"
+url,https://sites.google.com/site/bctnet/datasets
+tags,"['Biological', 'Connectome', 'Unweighted']"

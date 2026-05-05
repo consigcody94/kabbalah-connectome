@@ -1,0 +1,167 @@
+{
+  "data_source": "Budapest Reference Connectome v2.0 (Szalkai et al. 2015)",
+  "subjects": "477 HCP subjects, consensus all_20k",
+  "full_connectome": {
+    "nodes": 801,
+    "edges": 4451,
+    "intra_hemi_edges": 4416,
+    "inter_hemi_edges": 35
+  },
+  "coarsened_connectome": {
+    "nodes": 22,
+    "edges": 64,
+    "articulation_points": 1,
+    "top_betweenness_node": "right-Other",
+    "top_betweenness_value": 0.558888888888889
+  },
+  "h2_top_bc_nodes_full": [
+    {
+      "rank": 1,
+      "node": "Left-Caudate",
+      "hemi": "left",
+      "bc": 0.2593205156328783,
+      "degree": 130
+    },
+    {
+      "rank": 2,
+      "node": "Right-Hippocampus",
+      "hemi": "right",
+      "bc": 0.2576827284270881,
+      "degree": 85
+    },
+    {
+      "rank": 3,
+      "node": "Right-Putamen",
+      "hemi": "right",
+      "bc": 0.22294445740908997,
+      "degree": 164
+    },
+    {
+      "rank": 4,
+      "node": "Left-Thalamus-Proper",
+      "hemi": "left",
+      "bc": 0.20674827018933667,
+      "degree": 66
+    },
+    {
+      "rank": 5,
+      "node": "Right-Caudate",
+      "hemi": "right",
+      "bc": 0.190454218635986,
+      "degree": 129
+    },
+    {
+      "rank": 6,
+      "node": "Left-Hippocampus",
+      "hemi": "left",
+      "bc": 0.1741837752798497,
+      "degree": 80
+    },
+    {
+      "rank": 7,
+      "node": "Left-Putamen",
+      "hemi": "left",
+      "bc": 0.1419971557600536,
+      "degree": 156
+    },
+    {
+      "rank": 8,
+      "node": "lateraloccipital_3",
+      "hemi": "right",
+      "bc": 0.051093074186187575,
+      "degree": 34
+    },
+    {
+      "rank": 9,
+      "node": "superiorparietal_25",
+      "hemi": "left",
+      "bc": 0.045049525465293366,
+      "degree": 39
+    },
+    {
+      "rank": 10,
+      "node": "Brain-Stem",
+      "hemi": "left",
+      "bc": 0.04074610326737686,
+      "degree": 11
+    }
+  ],
+  "h2_progressive_disconnection": {
+    "top_1_removed_LR_pairs_pct": 99.75369458128078,
+    "top_5_removed_LR_pairs_pct": 93.73261832013469,
+    "top_10_removed_LR_pairs_pct": 89.76990708985471,
+    "top_20_removed_LR_pairs_pct": 0.0,
+    "top_50_removed_LR_pairs_pct": 0.0
+  },
+  "h1_distances": {
+    "joined_trees_to_real": 0.43772936595953327,
+    "synth_brain_to_real": 0.590866387962436,
+    "joined_trees_to_synth_brain": 0.5367547425216359
+  },
+  "null_p_values": {
+    "ER": 0.0,
+    "CFG": 0.0,
+    "WS": 0.0,
+    "BA": 0.0,
+    "GEO": 0.0
+  },
+  "metrics": {
+    "JOINED_node": {
+      "density": 0.23809523809523808,
+      "mean_degree": 4.761904761904762,
+      "diameter": 6,
+      "char_path": 2.5619047619047617,
+      "efficiency": 0.5153968253968259,
+      "avg_clustering": 0.647089947089947,
+      "transitivity": 0.5302325581395348,
+      "mean_betweenness": 0.08220551378446116,
+      "max_betweenness": 0.5263157894736842,
+      "betweenness_centralization": 0.04908587257591894,
+      "lambda_1": 5.244483155938744,
+      "spectral_gap": 0.5076145712240097,
+      "spectral_radius": 5.244483155938744,
+      "assortativity": -0.17086834733893594,
+      "sigma": 2.3573043949167185,
+      "omega": -0.2911226503543728,
+      "modularity_Q": 0.4626
+    },
+    "BRAIN_10_synth": {
+      "density": 0.22857142857142856,
+      "mean_degree": 4.571428571428571,
+      "diameter": 4,
+      "char_path": 1.980952380952381,
+      "efficiency": 0.5809523809523814,
+      "avg_clustering": 0.4746031746031746,
+      "transitivity": 0.30952380952380953,
+      "mean_betweenness": 0.05162907268170426,
+      "max_betweenness": 0.6560902255639098,
+      "betweenness_centralization": 0.06680886426557636,
+      "lambda_1": 5.773484159860667,
+      "spectral_gap": 2.242888376542821,
+      "spectral_radius": 5.773484159860667,
+      "assortativity": -0.23510971786833834,
+      "sigma": 2.410853732831192,
+      "omega": 0.24889855514855508,
+      "modularity_Q": 0.3194444444444444
+    },
+    "REAL_coarse": {
+      "density": 0.27705627705627706,
+      "mean_degree": 5.818181818181818,
+      "diameter": 5,
+      "char_path": 2.2164502164502164,
+      "efficiency": 0.5632756132756144,
+      "avg_clustering": 0.740735274826184,
+      "transitivity": 0.5967302452316077,
+      "mean_betweenness": 0.06082251082251084,
+      "max_betweenness": 0.558888888888889,
+      "betweenness_centralization": 0.052178382463848295,
+      "lambda_1": 230.59499576238605,
+      "spectral_gap": 11.01507929507585,
+      "spectral_radius": 230.59499576238605,
+      "assortativity": -0.27961055330986223,
+      "sigma": 2.445448154003458,
+      "omega": -0.3949103538769734,
+      "modularity_Q": 0.5041488300579191
+    }
+  }
+}

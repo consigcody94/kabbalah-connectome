@@ -1,0 +1,3 @@
+node,degree,degree_z,betweenness,betweenness_rank,closeness,is_articulation,components_after_removal,fraction_isolated_after
+Daath,6,0.7734533520181626,0.5263157894736842,1,0.5555555555555556,True,2,0.5
+CorpusCallosum,16,4.125684983545812,0.6560902255639098,1,0.8333333333333334,True,2,0.5

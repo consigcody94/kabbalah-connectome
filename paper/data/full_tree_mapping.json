@@ -1,0 +1,1073 @@
+{
+  "Keter": {
+    "tree_signature": [
+      -1.100683616333539,
+      0.0,
+      0.1,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 818,
+        "brain_name": "precuneus_1",
+        "brain_hemi": "left",
+        "distance": 0.10520071389021472,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 716,
+        "brain_name": "postcentral_2",
+        "brain_hemi": "left",
+        "distance": 0.10522299037287819,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 619,
+        "brain_name": "superiorfrontal_25",
+        "brain_hemi": "left",
+        "distance": 0.10526010736746766,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 272,
+        "brain_name": "superiorparietal_23",
+        "brain_hemi": "right",
+        "distance": 0.10531204918246923,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 673,
+        "brain_name": "precentral_34",
+        "brain_hemi": "left",
+        "distance": 0.10537879389616689,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      }
+    ]
+  },
+  "Chokhmah": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.7,
+      0.7,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 94,
+        "brain_name": "superiorfrontal_37",
+        "brain_hemi": "right",
+        "distance": 0.04575332655092384,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.70875
+      },
+      {
+        "brain_idx": 27,
+        "brain_name": "medialorbitofrontal_10",
+        "brain_hemi": "right",
+        "distance": 0.05038642611456276,
+        "brain_degree": 15,
+        "brain_bc_pct": 0.69625
+      },
+      {
+        "brain_idx": 76,
+        "brain_name": "rostralmiddlefrontal_1",
+        "brain_hemi": "right",
+        "distance": 0.054830759481672146,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.73125
+      },
+      {
+        "brain_idx": 86,
+        "brain_name": "superiorfrontal_19",
+        "brain_hemi": "right",
+        "distance": 0.054850718003281305,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.7325
+      },
+      {
+        "brain_idx": 212,
+        "brain_name": "postcentral_27",
+        "brain_hemi": "right",
+        "distance": 0.057744626233215496,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.68875
+      }
+    ]
+  },
+  "Binah": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.7,
+      0.7,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 94,
+        "brain_name": "superiorfrontal_37",
+        "brain_hemi": "right",
+        "distance": 0.04575332655092384,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.70875
+      },
+      {
+        "brain_idx": 27,
+        "brain_name": "medialorbitofrontal_10",
+        "brain_hemi": "right",
+        "distance": 0.05038642611456276,
+        "brain_degree": 15,
+        "brain_bc_pct": 0.69625
+      },
+      {
+        "brain_idx": 76,
+        "brain_name": "rostralmiddlefrontal_1",
+        "brain_hemi": "right",
+        "distance": 0.054830759481672146,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.73125
+      },
+      {
+        "brain_idx": 86,
+        "brain_name": "superiorfrontal_19",
+        "brain_hemi": "right",
+        "distance": 0.054850718003281305,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.7325
+      },
+      {
+        "brain_idx": 212,
+        "brain_name": "postcentral_27",
+        "brain_hemi": "right",
+        "distance": 0.057744626233215496,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.68875
+      }
+    ]
+  },
+  "Chesed": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.2,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 379,
+        "brain_name": "lingual_12",
+        "brain_hemi": "right",
+        "distance": 0.10613425581928873,
+        "brain_degree": 4,
+        "brain_bc_pct": 0.27
+      },
+      {
+        "brain_idx": 393,
+        "brain_name": "fusiform_8",
+        "brain_hemi": "right",
+        "distance": 0.12984733464554618,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.28625
+      },
+      {
+        "brain_idx": 476,
+        "brain_name": "superiortemporal_8",
+        "brain_hemi": "right",
+        "distance": 0.13993309412248145,
+        "brain_degree": 3,
+        "brain_bc_pct": 0.28375
+      },
+      {
+        "brain_idx": 258,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "right",
+        "distance": 0.14402202142965345,
+        "brain_degree": 2,
+        "brain_bc_pct": 0.27625
+      },
+      {
+        "brain_idx": 18,
+        "brain_name": "parsorbitalis_1",
+        "brain_hemi": "right",
+        "distance": 0.1455128935508893,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.2825
+      }
+    ]
+  },
+  "Geburah": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.2,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 379,
+        "brain_name": "lingual_12",
+        "brain_hemi": "right",
+        "distance": 0.10613425581928873,
+        "brain_degree": 4,
+        "brain_bc_pct": 0.27
+      },
+      {
+        "brain_idx": 393,
+        "brain_name": "fusiform_8",
+        "brain_hemi": "right",
+        "distance": 0.12984733464554618,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.28625
+      },
+      {
+        "brain_idx": 476,
+        "brain_name": "superiortemporal_8",
+        "brain_hemi": "right",
+        "distance": 0.13993309412248145,
+        "brain_degree": 3,
+        "brain_bc_pct": 0.28375
+      },
+      {
+        "brain_idx": 258,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "right",
+        "distance": 0.14402202142965345,
+        "brain_degree": 2,
+        "brain_bc_pct": 0.27625
+      },
+      {
+        "brain_idx": 18,
+        "brain_name": "parsorbitalis_1",
+        "brain_hemi": "right",
+        "distance": 0.1455128935508893,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.2825
+      }
+    ]
+  },
+  "Tiferet": {
+    "tree_signature": [
+      2.647590320369864,
+      0.9,
+      0.9,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 501,
+        "brain_name": "Right-Thalamus-Proper",
+        "brain_hemi": "right",
+        "distance": 0.16626613247421906,
+        "brain_degree": 45,
+        "brain_bc_pct": 0.9875
+      },
+      {
+        "brain_idx": 254,
+        "brain_name": "superiorparietal_13",
+        "brain_hemi": "right",
+        "distance": 0.2130333736946549,
+        "brain_degree": 39,
+        "brain_bc_pct": 0.98125
+      },
+      {
+        "brain_idx": 769,
+        "brain_name": "superiorparietal_25",
+        "brain_hemi": "left",
+        "distance": 0.23135473883784288,
+        "brain_degree": 39,
+        "brain_bc_pct": 0.99
+      },
+      {
+        "brain_idx": 126,
+        "brain_name": "caudalmiddlefrontal_11",
+        "brain_hemi": "right",
+        "distance": 0.23404366852935513,
+        "brain_degree": 38,
+        "brain_bc_pct": 0.82875
+      },
+      {
+        "brain_idx": 650,
+        "brain_name": "precentral_21",
+        "brain_hemi": "left",
+        "distance": 0.2846741397426655,
+        "brain_degree": 35,
+        "brain_bc_pct": 0.9625
+      }
+    ]
+  },
+  "Netzach": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.6,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 832,
+        "brain_name": "precuneus_11",
+        "brain_hemi": "left",
+        "distance": 0.0290703295532916,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6
+      },
+      {
+        "brain_idx": 835,
+        "brain_name": "precuneus_9",
+        "brain_hemi": "left",
+        "distance": 0.06231038485145943,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.565
+      },
+      {
+        "brain_idx": 907,
+        "brain_name": "fusiform_14",
+        "brain_hemi": "left",
+        "distance": 0.0656820322372394,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.58875
+      },
+      {
+        "brain_idx": 398,
+        "brain_name": "fusiform_13",
+        "brain_hemi": "right",
+        "distance": 0.08099820405624428,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6075
+      },
+      {
+        "brain_idx": 902,
+        "brain_name": "fusiform_16",
+        "brain_hemi": "left",
+        "distance": 0.08629395436724972,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6525
+      }
+    ]
+  },
+  "Hod": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.6,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 832,
+        "brain_name": "precuneus_11",
+        "brain_hemi": "left",
+        "distance": 0.0290703295532916,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6
+      },
+      {
+        "brain_idx": 835,
+        "brain_name": "precuneus_9",
+        "brain_hemi": "left",
+        "distance": 0.06231038485145943,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.565
+      },
+      {
+        "brain_idx": 907,
+        "brain_name": "fusiform_14",
+        "brain_hemi": "left",
+        "distance": 0.0656820322372394,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.58875
+      },
+      {
+        "brain_idx": 398,
+        "brain_name": "fusiform_13",
+        "brain_hemi": "right",
+        "distance": 0.08099820405624428,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6075
+      },
+      {
+        "brain_idx": 902,
+        "brain_name": "fusiform_16",
+        "brain_hemi": "left",
+        "distance": 0.08629395436724972,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.6525
+      }
+    ]
+  },
+  "Yesod": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.45,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 297,
+        "brain_name": "inferiorparietal_19",
+        "brain_hemi": "right",
+        "distance": 0.01800006082079893,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.4475
+      },
+      {
+        "brain_idx": 359,
+        "brain_name": "lateraloccipital_17",
+        "brain_hemi": "right",
+        "distance": 0.05226987481212062,
+        "brain_degree": 7,
+        "brain_bc_pct": 0.45125
+      },
+      {
+        "brain_idx": 115,
+        "brain_name": "superiorfrontal_17",
+        "brain_hemi": "right",
+        "distance": 0.06001686533305429,
+        "brain_degree": 6,
+        "brain_bc_pct": 0.42125
+      },
+      {
+        "brain_idx": 364,
+        "brain_name": "lateraloccipital_4",
+        "brain_hemi": "right",
+        "distance": 0.06251961542487894,
+        "brain_degree": 7,
+        "brain_bc_pct": 0.47125
+      },
+      {
+        "brain_idx": 136,
+        "brain_name": "precentral_5",
+        "brain_hemi": "right",
+        "distance": 0.06578090292442375,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.455
+      }
+    ]
+  },
+  "Malkuth": {
+    "tree_signature": [
+      -1.100683616333539,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 843,
+        "brain_name": "cuneus_3",
+        "brain_hemi": "left",
+        "distance": 0.10519328734767641,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 845,
+        "brain_name": "pericalcarine_7",
+        "brain_hemi": "left",
+        "distance": 0.10519328734767641,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 793,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "left",
+        "distance": 0.10522299037287819,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 854,
+        "brain_name": "lateraloccipital_10",
+        "brain_hemi": "left",
+        "distance": 0.10526010736746766,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 681,
+        "brain_name": "paracentral_9",
+        "brain_hemi": "left",
+        "distance": 0.10579314818555509,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      }
+    ]
+  },
+  "Daath": {
+    "tree_signature": [
+      0.7734533520181626,
+      1.0,
+      1.0,
+      1.0,
+      0.5
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 1013,
+        "brain_name": "Left-Amygdala",
+        "brain_hemi": "left",
+        "distance": 0.7524541074704045,
+        "brain_degree": 24,
+        "brain_bc_pct": 0.9725
+      },
+      {
+        "brain_idx": 547,
+        "brain_name": "parsopercularis_6",
+        "brain_hemi": "left",
+        "distance": 0.7748037470842613,
+        "brain_degree": 17,
+        "brain_bc_pct": 0.9025
+      },
+      {
+        "brain_idx": 815,
+        "brain_name": "inferiorparietal_20",
+        "brain_hemi": "left",
+        "distance": 0.7899916174964757,
+        "brain_degree": 26,
+        "brain_bc_pct": 0.985
+      },
+      {
+        "brain_idx": 653,
+        "brain_name": "precentral_16",
+        "brain_hemi": "left",
+        "distance": 0.7910511358108165,
+        "brain_degree": 25,
+        "brain_bc_pct": 0.84125
+      },
+      {
+        "brain_idx": 640,
+        "brain_name": "caudalmiddlefrontal_10",
+        "brain_hemi": "left",
+        "distance": 0.7915159166703996,
+        "brain_degree": 25,
+        "brain_bc_pct": 0.8425
+      }
+    ]
+  },
+  "Thaumiel": {
+    "tree_signature": [
+      -1.100683616333539,
+      0.0,
+      0.1,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 818,
+        "brain_name": "precuneus_1",
+        "brain_hemi": "left",
+        "distance": 0.10520071389021472,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 716,
+        "brain_name": "postcentral_2",
+        "brain_hemi": "left",
+        "distance": 0.10522299037287819,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 619,
+        "brain_name": "superiorfrontal_25",
+        "brain_hemi": "left",
+        "distance": 0.10526010736746766,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 272,
+        "brain_name": "superiorparietal_23",
+        "brain_hemi": "right",
+        "distance": 0.10531204918246923,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 673,
+        "brain_name": "precentral_34",
+        "brain_hemi": "left",
+        "distance": 0.10537879389616689,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      }
+    ]
+  },
+  "Ghagiel": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.8,
+      0.7,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 251,
+        "brain_name": "supramarginal_7",
+        "brain_hemi": "right",
+        "distance": 0.06677905254504407,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.83125
+      },
+      {
+        "brain_idx": 153,
+        "brain_name": "precentral_16",
+        "brain_hemi": "right",
+        "distance": 0.06774257135826228,
+        "brain_degree": 14,
+        "brain_bc_pct": 0.76125
+      },
+      {
+        "brain_idx": 92,
+        "brain_name": "superiorfrontal_2",
+        "brain_hemi": "right",
+        "distance": 0.1023246127389799,
+        "brain_degree": 17,
+        "brain_bc_pct": 0.7725
+      },
+      {
+        "brain_idx": 86,
+        "brain_name": "superiorfrontal_19",
+        "brain_hemi": "right",
+        "distance": 0.10432449983333482,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.7325
+      },
+      {
+        "brain_idx": 76,
+        "brain_name": "rostralmiddlefrontal_1",
+        "brain_hemi": "right",
+        "distance": 0.10697622252321778,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.73125
+      }
+    ]
+  },
+  "Sathariel": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.8,
+      0.7,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 251,
+        "brain_name": "supramarginal_7",
+        "brain_hemi": "right",
+        "distance": 0.06677905254504407,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.83125
+      },
+      {
+        "brain_idx": 153,
+        "brain_name": "precentral_16",
+        "brain_hemi": "right",
+        "distance": 0.06774257135826228,
+        "brain_degree": 14,
+        "brain_bc_pct": 0.76125
+      },
+      {
+        "brain_idx": 92,
+        "brain_name": "superiorfrontal_2",
+        "brain_hemi": "right",
+        "distance": 0.1023246127389799,
+        "brain_degree": 17,
+        "brain_bc_pct": 0.7725
+      },
+      {
+        "brain_idx": 86,
+        "brain_name": "superiorfrontal_19",
+        "brain_hemi": "right",
+        "distance": 0.10432449983333482,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.7325
+      },
+      {
+        "brain_idx": 76,
+        "brain_name": "rostralmiddlefrontal_1",
+        "brain_hemi": "right",
+        "distance": 0.10697622252321778,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.73125
+      }
+    ]
+  },
+  "Gamchicoth": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.2,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 379,
+        "brain_name": "lingual_12",
+        "brain_hemi": "right",
+        "distance": 0.10613425581928873,
+        "brain_degree": 4,
+        "brain_bc_pct": 0.27
+      },
+      {
+        "brain_idx": 393,
+        "brain_name": "fusiform_8",
+        "brain_hemi": "right",
+        "distance": 0.12984733464554618,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.28625
+      },
+      {
+        "brain_idx": 476,
+        "brain_name": "superiortemporal_8",
+        "brain_hemi": "right",
+        "distance": 0.13993309412248145,
+        "brain_degree": 3,
+        "brain_bc_pct": 0.28375
+      },
+      {
+        "brain_idx": 258,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "right",
+        "distance": 0.14402202142965345,
+        "brain_degree": 2,
+        "brain_bc_pct": 0.27625
+      },
+      {
+        "brain_idx": 18,
+        "brain_name": "parsorbitalis_1",
+        "brain_hemi": "right",
+        "distance": 0.1455128935508893,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.2825
+      }
+    ]
+  },
+  "Golachab": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.2,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 379,
+        "brain_name": "lingual_12",
+        "brain_hemi": "right",
+        "distance": 0.10613425581928873,
+        "brain_degree": 4,
+        "brain_bc_pct": 0.27
+      },
+      {
+        "brain_idx": 393,
+        "brain_name": "fusiform_8",
+        "brain_hemi": "right",
+        "distance": 0.12984733464554618,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.28625
+      },
+      {
+        "brain_idx": 476,
+        "brain_name": "superiortemporal_8",
+        "brain_hemi": "right",
+        "distance": 0.13993309412248145,
+        "brain_degree": 3,
+        "brain_bc_pct": 0.28375
+      },
+      {
+        "brain_idx": 258,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "right",
+        "distance": 0.14402202142965345,
+        "brain_degree": 2,
+        "brain_bc_pct": 0.27625
+      },
+      {
+        "brain_idx": 18,
+        "brain_name": "parsorbitalis_1",
+        "brain_hemi": "right",
+        "distance": 0.1455128935508893,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.2825
+      }
+    ]
+  },
+  "Thagirion": {
+    "tree_signature": [
+      2.647590320369864,
+      0.9,
+      0.9,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 501,
+        "brain_name": "Right-Thalamus-Proper",
+        "brain_hemi": "right",
+        "distance": 0.16626613247421906,
+        "brain_degree": 45,
+        "brain_bc_pct": 0.9875
+      },
+      {
+        "brain_idx": 254,
+        "brain_name": "superiorparietal_13",
+        "brain_hemi": "right",
+        "distance": 0.2130333736946549,
+        "brain_degree": 39,
+        "brain_bc_pct": 0.98125
+      },
+      {
+        "brain_idx": 769,
+        "brain_name": "superiorparietal_25",
+        "brain_hemi": "left",
+        "distance": 0.23135473883784288,
+        "brain_degree": 39,
+        "brain_bc_pct": 0.99
+      },
+      {
+        "brain_idx": 126,
+        "brain_name": "caudalmiddlefrontal_11",
+        "brain_hemi": "right",
+        "distance": 0.23404366852935513,
+        "brain_degree": 38,
+        "brain_bc_pct": 0.82875
+      },
+      {
+        "brain_idx": 650,
+        "brain_name": "precentral_21",
+        "brain_hemi": "left",
+        "distance": 0.2846741397426655,
+        "brain_degree": 35,
+        "brain_bc_pct": 0.9625
+      }
+    ]
+  },
+  "Harab Serapel": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.5,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 996,
+        "brain_name": "insula_14",
+        "brain_hemi": "left",
+        "distance": 0.05526576146653072,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.48125
+      },
+      {
+        "brain_idx": 454,
+        "brain_name": "bankssts_1",
+        "brain_hemi": "right",
+        "distance": 0.07665725053989987,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.5
+      },
+      {
+        "brain_idx": 449,
+        "brain_name": "middletemporal_2",
+        "brain_hemi": "right",
+        "distance": 0.07840990839054567,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.52
+      },
+      {
+        "brain_idx": 1002,
+        "brain_name": "insula_15",
+        "brain_hemi": "left",
+        "distance": 0.0899593813112663,
+        "brain_degree": 10,
+        "brain_bc_pct": 0.4675
+      },
+      {
+        "brain_idx": 784,
+        "brain_name": "superiorparietal_6",
+        "brain_hemi": "left",
+        "distance": 0.09226357276202647,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.50625
+      }
+    ]
+  },
+  "Samael": {
+    "tree_signature": [
+      0.14874102923426205,
+      0.5,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 996,
+        "brain_name": "insula_14",
+        "brain_hemi": "left",
+        "distance": 0.05526576146653072,
+        "brain_degree": 13,
+        "brain_bc_pct": 0.48125
+      },
+      {
+        "brain_idx": 454,
+        "brain_name": "bankssts_1",
+        "brain_hemi": "right",
+        "distance": 0.07665725053989987,
+        "brain_degree": 12,
+        "brain_bc_pct": 0.5
+      },
+      {
+        "brain_idx": 449,
+        "brain_name": "middletemporal_2",
+        "brain_hemi": "right",
+        "distance": 0.07840990839054567,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.52
+      },
+      {
+        "brain_idx": 1002,
+        "brain_name": "insula_15",
+        "brain_hemi": "left",
+        "distance": 0.0899593813112663,
+        "brain_degree": 10,
+        "brain_bc_pct": 0.4675
+      },
+      {
+        "brain_idx": 784,
+        "brain_name": "superiorparietal_6",
+        "brain_hemi": "left",
+        "distance": 0.09226357276202647,
+        "brain_degree": 11,
+        "brain_bc_pct": 0.50625
+      }
+    ]
+  },
+  "Gamaliel": {
+    "tree_signature": [
+      -0.47597129354963846,
+      0.4,
+      0.2,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 438,
+        "brain_name": "middletemporal_10",
+        "brain_hemi": "right",
+        "distance": 0.03219475406883024,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.4025
+      },
+      {
+        "brain_idx": 206,
+        "brain_name": "postcentral_6",
+        "brain_hemi": "right",
+        "distance": 0.046226537990124876,
+        "brain_degree": 5,
+        "brain_bc_pct": 0.41125
+      },
+      {
+        "brain_idx": 115,
+        "brain_name": "superiorfrontal_17",
+        "brain_hemi": "right",
+        "distance": 0.05251927383738253,
+        "brain_degree": 6,
+        "brain_bc_pct": 0.42125
+      },
+      {
+        "brain_idx": 797,
+        "brain_name": "inferiorparietal_6",
+        "brain_hemi": "left",
+        "distance": 0.056820653150117646,
+        "brain_degree": 6,
+        "brain_bc_pct": 0.36875
+      },
+      {
+        "brain_idx": 20,
+        "brain_name": "parsorbitalis_3",
+        "brain_hemi": "right",
+        "distance": 0.07331186947344381,
+        "brain_degree": 3,
+        "brain_bc_pct": 0.36
+      }
+    ]
+  },
+  "Lilith": {
+    "tree_signature": [
+      -1.100683616333539,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_matches": [
+      {
+        "brain_idx": 843,
+        "brain_name": "cuneus_3",
+        "brain_hemi": "left",
+        "distance": 0.10519328734767641,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 845,
+        "brain_name": "pericalcarine_7",
+        "brain_hemi": "left",
+        "distance": 0.10519328734767641,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 793,
+        "brain_name": "superiorparietal_29",
+        "brain_hemi": "left",
+        "distance": 0.10522299037287819,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 854,
+        "brain_name": "lateraloccipital_10",
+        "brain_hemi": "left",
+        "distance": 0.10526010736746766,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      },
+      {
+        "brain_idx": 681,
+        "brain_name": "paracentral_9",
+        "brain_hemi": "left",
+        "distance": 0.10579314818555509,
+        "brain_degree": 1,
+        "brain_bc_pct": 0.0
+      }
+    ]
+  }
+}

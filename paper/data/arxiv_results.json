@@ -1,0 +1,741 @@
+{
+  "1_kabbalah_brain": [
+    {
+      "id": "astro-ph/0412590v2",
+      "title": "Precise measurement of CMB polarisation from Dome-C: the BRAIN and CLOVER experiments",
+      "authors": [
+        "M. Piat",
+        "C. Rosset",
+        "the BRAIN"
+      ],
+      "year": 2004,
+      "category": "astro-ph",
+      "abstract": "The characterisation of CMB polarisation is one of the next challenge in observationnal cosmology. This is especially true for the so-called B-modes that are at least 3 order of magnitude lower than CMB temperature fluctuations. A precise measurement of the angular power spectrum of these B-modes will give important constraints on inflation parameters. In this talk, I will describe two complementary experiments, BRAIN and CLOVER, dedicated to CMB polarisation measurement. These experiments are p"
+    },
+    {
+      "id": "2011.11052v1",
+      "title": "Efficient embedding network for 3D brain tumor segmentation",
+      "authors": [
+        "Hicham Messaoudi",
+        "Ahror Belaid",
+        "Mohamed Lamine Allaoui"
+      ],
+      "year": 2020,
+      "category": "cs.CV",
+      "abstract": "3D medical image processing with deep learning greatly suffers from a lack of data. Thus, studies carried out in this field are limited compared to works related to 2D natural image analysis, where very large datasets exist. As a result, powerful and efficient 2D convolutional neural networks have been developed and trained. In this paper, we investigate a way to transfer the performance of a two-dimensional classiffication network for the purpose of three-dimensional semantic segmentation of br"
+    },
+    {
+      "id": "2202.08261v2",
+      "title": "Evaluation and Analysis of Different Aggregation and Hyperparameter Selection Methods for Federated Brain Tumor Segmentation",
+      "authors": [
+        "Ece Isik-Polat",
+        "Gorkem Polat",
+        "Altan Kocyigit"
+      ],
+      "year": 2022,
+      "category": "cs.LG",
+      "abstract": "Availability of large, diverse, and multi-national datasets is crucial for the development of effective and clinically applicable AI systems in the medical imaging domain. However, forming a global model by bringing these datasets together at a central location, comes along with various data privacy and ownership problems. To alleviate these problems, several recent studies focus on the federated learning paradigm, a distributed learning approach for decentralized data. Federated learning levera"
+    },
+    {
+      "id": "2301.07030v1",
+      "title": "Computational Pathology for Brain Disorders",
+      "authors": [
+        "Gabriel Jimenez",
+        "Daniel Racoceanu"
+      ],
+      "year": 2023,
+      "category": "eess.IV",
+      "abstract": "Non-invasive brain imaging techniques allow understanding the behavior and macro changes in the brain to determine the progress of a disease. However, computational pathology provides a deeper understanding of brain disorders at cellular level, able to consolidate a diagnosis and make the bridge between the medical image and the omics analysis. In traditional histopathology, histology slides are visually inspected, under the microscope, by trained pathologists. This process is time-consuming and"
+    },
+    {
+      "id": "1204.3928v1",
+      "title": "Approximate invariance of metabolic energy per synapse during development in mammalian brains",
+      "authors": [
+        "Jan Karbowski"
+      ],
+      "year": 2012,
+      "category": "q-bio.NC",
+      "abstract": "During mammalian development the cerebral metabolic rate correlates qualitatively with synaptogenesis, and both often exhibit bimodal temporal profiles. Despite these non-monotonic dependencies, it is found based on empirical data for different mammals that regional metabolic rate per synapse is approximately conserved from birth to adulthood for a given species (with a slight deviation from this constancy for human visual and temporal cortices during adolescence). A typical synapse uses about $"
+    },
+    {
+      "id": "1602.00933v1",
+      "title": "Disentangling Brain Graphs: A Note on the Conflation of Network and Connectivity Analyses",
+      "authors": [
+        "Sean L. Simpson",
+        "Paul J. Laurienti"
+      ],
+      "year": 2016,
+      "category": "q-bio.QM",
+      "abstract": "Understanding the human brain remains the Holy Grail in biomedical science, and arguably in all of the sciences. Our brains represent the most complex systems in the world (and some contend the universe) comprising nearly one hundred billion neurons with septillions of possible connections between them. The structure of these connections engenders an efficient hierarchical system capable of consciousness, as well as complex thoughts, feelings, and behaviors. Brain connectivity and network analys"
+    },
+    {
+      "id": "2109.01854v2",
+      "title": "Predicting isocitrate dehydrogenase mutation status in glioma using structural brain networks and graph neural networks",
+      "authors": [
+        "Yiran Wei",
+        "Yonghao Li",
+        "Xi Chen"
+      ],
+      "year": 2021,
+      "category": "eess.IV",
+      "abstract": "Glioma is a common malignant brain tumor with distinct survival among patients. The isocitrate dehydrogenase (IDH) gene mutation provides critical diagnostic and prognostic value for glioma. It is of crucial significance to non-invasively predict IDH mutation based on pre-treatment MRI. Machine learning/deep learning models show reasonable performance in predicting IDH mutation using MRI. However, most models neglect the systematic brain alterations caused by tumor invasion, where widespread inf"
+    },
+    {
+      "id": "0807.0337v1",
+      "title": "Unveiling the mystery of visual information processing in human brain",
+      "authors": [
+        "Emanuel Diamant"
+      ],
+      "year": 2008,
+      "category": "cs.AI",
+      "abstract": "It is generally accepted that human vision is an extremely powerful information processing system that facilitates our interaction with the surrounding world. However, despite extended and extensive research efforts, which encompass many exploration fields, the underlying fundamentals and operational principles of visual information processing in human brain remain unknown. We still are unable to figure out where and how along the path from eyes to the cortex the sensory input perceived by the r"
+    }
+  ],
+  "1b_sephirot": [],
+  "1c_sacred_geo": [
+    {
+      "id": "astro-ph/0412590v2",
+      "title": "Precise measurement of CMB polarisation from Dome-C: the BRAIN and CLOVER experiments",
+      "authors": [
+        "M. Piat",
+        "C. Rosset",
+        "the BRAIN"
+      ],
+      "year": 2004,
+      "category": "astro-ph",
+      "abstract": "The characterisation of CMB polarisation is one of the next challenge in observationnal cosmology. This is especially true for the so-called B-modes that are at least 3 order of magnitude lower than CMB temperature fluctuations. A precise measurement of the angular power spectrum of these B-modes will give important constraints on inflation parameters. In this talk, I will describe two complementary experiments, BRAIN and CLOVER, dedicated to CMB polarisation measurement. These experiments are p"
+    },
+    {
+      "id": "2011.11052v1",
+      "title": "Efficient embedding network for 3D brain tumor segmentation",
+      "authors": [
+        "Hicham Messaoudi",
+        "Ahror Belaid",
+        "Mohamed Lamine Allaoui"
+      ],
+      "year": 2020,
+      "category": "cs.CV",
+      "abstract": "3D medical image processing with deep learning greatly suffers from a lack of data. Thus, studies carried out in this field are limited compared to works related to 2D natural image analysis, where very large datasets exist. As a result, powerful and efficient 2D convolutional neural networks have been developed and trained. In this paper, we investigate a way to transfer the performance of a two-dimensional classiffication network for the purpose of three-dimensional semantic segmentation of br"
+    },
+    {
+      "id": "0711.0446v1",
+      "title": "Asymptotic Properties of Hilbert Geometry",
+      "authors": [
+        "Alexander A. Borisenko",
+        "Eugeny A. Olin"
+      ],
+      "year": 2007,
+      "category": "math.DG",
+      "abstract": "We show that the spheres in Hilbert geometry have the same volume growth entropy as those in the Lobachevsky space. We give the asymptotic estimates for the ratio of the volume of metric ball to the area of the metric sphere in Hilbert geometry. Derived estimates agree with the well-known fact in the Lobachevsky space"
+    },
+    {
+      "id": "math/0505221v1",
+      "title": "Sasakian Geometry and Einstein Metrics on Spheres",
+      "authors": [
+        "Charles P. Boyer",
+        "Krzysztof Galicki"
+      ],
+      "year": 2005,
+      "category": "math.DG",
+      "abstract": "This paper is based on a talk presented by the first author at the Short Program on Riemannian Geometry that took place at the Centre de Recherche Mathématiques, Université de Montréal, during the period June 28-July 16, 2004. It is a report on our joint work with János Kollár concerning the existence of an abundance of Einstein metrics on odd dimensional spheres, including exotic spheres."
+    },
+    {
+      "id": "2404.03765v1",
+      "title": "Differential geometry using quaternions",
+      "authors": [
+        "Sergio Giardino"
+      ],
+      "year": 2024,
+      "category": "math.DG",
+      "abstract": "This paper establishes the basis of the quaternionic differential geometry ($\\mathbbm H$DG) initiated in a previous article. The usual concepts of curves and surfaces are generalized to quaternionic constraints, as well as the curvature and torsion concepts, differential forms, directional derivatives and the structural equations. The analogy between the quaternionic and the real geometries is obtained using a matrix representation of quaternions. The results evidences the quaternionic formalism"
+    },
+    {
+      "id": "0708.4298v3",
+      "title": "Dilatation structures in sub-riemannian geometry",
+      "authors": [
+        "Marius Buliga"
+      ],
+      "year": 2007,
+      "category": "math.DG",
+      "abstract": "Based on the notion of dilatation structure arXiv:math/0608536, we give an intrinsic treatment to sub-riemannian geometry, started in the paper arXiv:0706.3644 .\n  Here we prove that regular sub-riemannian manifolds admit dilatation structures. From the existence of normal frames proved by Bellaiche we deduce the rest of the properties of regular sub-riemannian manifolds by using the formalism of dilatation structures."
+    },
+    {
+      "id": "1705.05818v2",
+      "title": "Noether's Theorem in Multisymplectic Geometry",
+      "authors": [
+        "Jonathan Herman"
+      ],
+      "year": 2017,
+      "category": "math.SG",
+      "abstract": "We extend Noether's theorem to the setting of multisymplectic geometry by exhibiting a correspondence between conserved quantities and continuous symmetries on a multi-Hamiltonian system. We show that a homotopy co-momentum map interacts with this correspondence in a way analogous to the moment map in symplectic geometry.\n  We apply our results to generalize the theory of the classical momentum and position functions from the phase space of a given physical system to the multisymplectic phase sp"
+    },
+    {
+      "id": "2202.08261v2",
+      "title": "Evaluation and Analysis of Different Aggregation and Hyperparameter Selection Methods for Federated Brain Tumor Segmentation",
+      "authors": [
+        "Ece Isik-Polat",
+        "Gorkem Polat",
+        "Altan Kocyigit"
+      ],
+      "year": 2022,
+      "category": "cs.LG",
+      "abstract": "Availability of large, diverse, and multi-national datasets is crucial for the development of effective and clinically applicable AI systems in the medical imaging domain. However, forming a global model by bringing these datasets together at a central location, comes along with various data privacy and ownership problems. To alleviate these problems, several recent studies focus on the federated learning paradigm, a distributed learning approach for decentralized data. Federated learning levera"
+    }
+  ],
+  "2_corpus_callosum": [
+    {
+      "id": "1203.5066v1",
+      "title": "A Corpus-based Study of Temporal Signals",
+      "authors": [
+        "Leon Derczynski",
+        "Robert Gaizauskas"
+      ],
+      "year": 2012,
+      "category": "cs.CL",
+      "abstract": "Automatic temporal ordering of events described in discourse has been of great interest in recent years. Event orderings are conveyed in text via va rious linguistic mechanisms including the use of expressions such as \"before\", \"after\" or \"during\" that explicitly assert a temporal relation -- temporal signals. In this paper, we investigate the role of temporal signals in temporal relation extraction and provide a quantitative analysis of these expres sions in the TimeBank annotated corpus."
+    },
+    {
+      "id": "2511.16471v2",
+      "title": "FastSurfer-CC: A robust, accurate, and comprehensive framework for corpus callosum morphometry",
+      "authors": [
+        "Clemens Pollak",
+        "Kersten Diers",
+        "Santiago Estrada"
+      ],
+      "year": 2025,
+      "category": "cs.CV",
+      "abstract": "The corpus callosum, the largest commissural structure in the human brain, is a central focus in research on aging and neurological diseases. It is also a critical target for interventions such as deep brain stimulation and serves as an important biomarker in clinical trials, including those investigating remyelination therapies. Despite extensive research on corpus callosum segmentation, few publicly available tools provide a comprehensive and automated analysis pipeline. To address this gap, w"
+    },
+    {
+      "id": "2503.02245v1",
+      "title": "Identification of Genetic Factors Associated with Corpus Callosum Morphology: Conditional Strong Independence Screening for Non-Euclidean Responses",
+      "authors": [
+        "Zhe Gao",
+        "Jin Zhu",
+        "Yue Hu"
+      ],
+      "year": 2025,
+      "category": "stat.AP",
+      "abstract": "The corpus callosum, the largest white matter structure in the brain, plays a critical role in interhemispheric communication. Variations in its morphology are associated with various neurological and psychological conditions, making it a key focus in neurogenetics. Age is known to influence the structure and morphology of the corpus callosum significantly, complicating the identification of specific genetic factors that contribute to its shape and size. We propose a conditional strong independe"
+    },
+    {
+      "id": "2111.11170v1",
+      "title": "Human-Machine Interaction Speech Corpus from the ROBIN project",
+      "authors": [
+        "Vasile Păiş",
+        "Radu Ion",
+        "Andrei-Marius Avram"
+      ],
+      "year": 2021,
+      "category": "cs.CL",
+      "abstract": "This paper introduces a new Romanian speech corpus from the ROBIN project, called ROBIN Technical Acquisition Speech Corpus (ROBINTASC). Its main purpose was to improve the behaviour of a conversational agent, allowing human-machine interaction in the context of purchasing technical equipment. The paper contains a detailed description of the acquisition process, corpus statistics as well as an evaluation of the corpus influence on a low-latency ASR system as well as a dialogue component."
+    },
+    {
+      "id": "1806.04793v2",
+      "title": "A Connectome Based Hexagonal Lattice Convolutional Network Model of the Drosophila Visual System",
+      "authors": [
+        "Fabian David Tschopp",
+        "Michael B. Reiser",
+        "Srinivas C. Turaga"
+      ],
+      "year": 2018,
+      "category": "q-bio.NC",
+      "abstract": "What can we learn from a connectome? We constructed a simplified model of the first two stages of the fly visual system, the lamina and medulla. The resulting hexagonal lattice convolutional network was trained using backpropagation through time to perform object tracking in natural scene videos. Networks initialized with weights from connectome reconstructions automatically discovered well-known orientation and direction selectivity properties in T4 neurons and their inputs, while networks init"
+    },
+    {
+      "id": "2307.02464v1",
+      "title": "AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images",
+      "authors": [
+        "Ao Cheng",
+        "Guoqiang Zhao",
+        "Lirong Wang"
+      ],
+      "year": 2023,
+      "category": "eess.IV",
+      "abstract": "The electron microscope (EM) remains the predominant technique for elucidating intricate details of the animal nervous system at the nanometer scale. However, accurately reconstructing the complex morphology of axons and myelin sheaths poses a significant challenge. Furthermore, the absence of publicly available, large-scale EM datasets encompassing complete cross sections of the corpus callosum, with dense ground truth segmentation for axons and myelin sheaths, hinders the advancement and evalu"
+    },
+    {
+      "id": "2311.15289v2",
+      "title": "Counting cliques without generalized theta graphs",
+      "authors": [
+        "Jun Gao",
+        "Zhuo Wu",
+        "Yisai Xue"
+      ],
+      "year": 2023,
+      "category": "math.CO",
+      "abstract": "The \\textit{generalized Turán number} $\\mathrm{ex}(n, T, F)$ is the maximum possible number of copies of $T$ in an $F$-free graph on $n$ vertices for any two graphs $T$ and $F$. For the book graph $B_t$, there is a close connection between $\\ex(n,K_3,B_t)$ and the Ruzsa-Szemerédi triangle removal lemma. Motivated by this, in this paper, we study the generalized Turán problem for generalized theta graphs, a natural extension of book graphs. Our main result provides a complete characterization of "
+    },
+    {
+      "id": "1802.01429v1",
+      "title": "Manuscripts in Time and Space: Experiments in Scriptometrics on an Old French Corpus",
+      "authors": [
+        "Jean-Baptiste Camps"
+      ],
+      "year": 2018,
+      "category": "cs.CL",
+      "abstract": "Witnesses of medieval literary texts, preserved in manuscript, are layered objects , being almost exclusively copies of copies. This results in multiple and hard to distinguish linguistic strata -- the author's scripta interacting with the scriptae of the various scribes -- in a context where literary written language is already a dialectal hybrid. Moreover, no single linguistic phenomenon allows to distinguish between different scriptae, and only the combination of multiple characteristics is l"
+    }
+  ],
+  "3_bridge_node": [
+    {
+      "id": "2408.03023v4",
+      "title": "Uniqueness Analysis of Controllability Scores and Their Application to Brain Networks",
+      "authors": [
+        "Kazuhiro Sato",
+        "Ryohei Kawamura"
+      ],
+      "year": 2024,
+      "category": "math.OC",
+      "abstract": "Assessing centrality in network systems is critical for understanding node importance and guiding decision-making processes. In dynamic networks, incorporating a controllability perspective is essential for identifying key nodes. In this paper, we study two control theoretic centrality measures -- the Volumetric Controllability Score (VCS) and Average Energy Controllability Score (AECS) -- to quantify node importance in linear time-invariant network systems. We prove the uniqueness of VCS and AE"
+    },
+    {
+      "id": "1710.04056v2",
+      "title": "Regions of Interest as nodes of dynamic functional brain networks",
+      "authors": [
+        "Elisa Ryyppö",
+        "Enrico Glerean",
+        "Elvira Brattico"
+      ],
+      "year": 2017,
+      "category": "q-bio.NC",
+      "abstract": "The properties of functional brain networks strongly depend on how their nodes are chosen. Commonly, nodes are defined by Regions of Interest (ROIs), pre-determined groupings of fMRI measurement voxels. Earlier, we have demonstrated that the functional homogeneity of ROIs, captured by their spatial consistency, varies widely across ROIs in commonly-used brain atlases. Here, we ask how ROIs behave as nodes of dynamic brain networks. To this end, we use two measures: spatiotemporal consistency mea"
+    },
+    {
+      "id": "astro-ph/0412590v2",
+      "title": "Precise measurement of CMB polarisation from Dome-C: the BRAIN and CLOVER experiments",
+      "authors": [
+        "M. Piat",
+        "C. Rosset",
+        "the BRAIN"
+      ],
+      "year": 2004,
+      "category": "astro-ph",
+      "abstract": "The characterisation of CMB polarisation is one of the next challenge in observationnal cosmology. This is especially true for the so-called B-modes that are at least 3 order of magnitude lower than CMB temperature fluctuations. A precise measurement of the angular power spectrum of these B-modes will give important constraints on inflation parameters. In this talk, I will describe two complementary experiments, BRAIN and CLOVER, dedicated to CMB polarisation measurement. These experiments are p"
+    },
+    {
+      "id": "1704.07635v1",
+      "title": "Consistency of Regions of Interest as nodes of functional brain networks measured by fMRI",
+      "authors": [
+        "Onerva Korhonen",
+        "Heini Saarimäki",
+        "Enrico Glerean"
+      ],
+      "year": 2017,
+      "category": "q-bio.NC",
+      "abstract": "The functional network approach, where fMRI BOLD time series are mapped to networks depicting functional relationships between brain areas, has opened new insights into the function of the human brain. In this approach, the choice of network nodes is of crucial importance. One option is to consider fMRI voxels as nodes. This results in a large number of nodes, making network analysis and interpretation of results challenging. A common alternative is to use pre-defined clusters of anatomically cl"
+    },
+    {
+      "id": "2011.11052v1",
+      "title": "Efficient embedding network for 3D brain tumor segmentation",
+      "authors": [
+        "Hicham Messaoudi",
+        "Ahror Belaid",
+        "Mohamed Lamine Allaoui"
+      ],
+      "year": 2020,
+      "category": "cs.CV",
+      "abstract": "3D medical image processing with deep learning greatly suffers from a lack of data. Thus, studies carried out in this field are limited compared to works related to 2D natural image analysis, where very large datasets exist. As a result, powerful and efficient 2D convolutional neural networks have been developed and trained. In this paper, we investigate a way to transfer the performance of a two-dimensional classiffication network for the purpose of three-dimensional semantic segmentation of br"
+    },
+    {
+      "id": "2106.14011v1",
+      "title": "Distributed Identification of Central Nodes with Less Communication",
+      "authors": [
+        "Jordan F. Masakuna",
+        "Steve Kroon"
+      ],
+      "year": 2021,
+      "category": "cs.SI",
+      "abstract": "This paper is concerned with distributed detection of central nodes in complex networks using closeness centrality. Closeness centrality plays an essential role in network analysis. Evaluating closeness centrality exactly requires complete knowledge of the network; for large networks, this may be inefficient, so closeness centrality should be approximated. Distributed tasks such as leader election can make effective use of centrality information for highly central nodes, but complete network inf"
+    },
+    {
+      "id": "1002.1162v1",
+      "title": "Node Disjoint Multipath Routing Considering Link and Node Stability protocol: A characteristic Evaluation",
+      "authors": [
+        "Shuchita Upadhayaya",
+        "Charu Gandhi"
+      ],
+      "year": 2010,
+      "category": "cs.NI",
+      "abstract": "Mobile Ad hoc Networks are highly dynamic networks. Quality of Service (QoS) routing in such networks is usually limited by the network breakage due to either node mobility or energy depletion of the mobile nodes. Also, to fulfill certain quality parameters, presence of multiple node-disjoint paths becomes essential. Such paths aid in the optimal traffic distribution and reliability in case of path breakages. Thus, to cater various challenges in QoS routing in Mobile Add hoc Networks, a Node Dis"
+    },
+    {
+      "id": "2510.15627v1",
+      "title": "Measuring nodes centrality when local and global measures overlap",
+      "authors": [
+        "Lorenzo Costantini",
+        "Carla Sciarra",
+        "Luca Ridolfi"
+      ],
+      "year": 2025,
+      "category": "physics.soc-ph",
+      "abstract": "Centrality metrics aim to identify the most relevant nodes in a network. In literature, a broad set of metrics exists, either measuring local or global centrality characteristics. Nevertheless, when networks exhibit a high spectral gap, the usual global centrality measures typically do not add significant information with respect to the degree, i.e., the simplest local metric. To extract new information from this class of networks, we propose the use of the GENeralized Economic comPlexitY index "
+    }
+  ],
+  "4_mythology": [
+    {
+      "id": "2511.16564v1",
+      "title": "Differential decay rate of $B^+ \\to J/ψK^+$ with the LHCb Upgrade I experiment",
+      "authors": [
+        "LHCb collaboration",
+        "R. Aaij",
+        "A. S. W. Abdelmotteleb"
+      ],
+      "year": 2025,
+      "category": "hep-ex",
+      "abstract": "The normalised decay rate of $B^+ \\to J/ψ(\\to μ^+μ^-) K^+$ is measured as a function of the lepton helicity angle using a data sample corresponding to an integrated luminosity of $1.1 \\text{fb}^{-1}$ collected during October 2024 with the upgraded (Upgrade I) LHCb detector. This angular distribution can be parameterised by two coefficients, the forward-backward asymmetry, $A_{FB}$, and the flatness parameter, $F_{H}$, whose values are constrained by conservation of angular momentum. These coeffi"
+    },
+    {
+      "id": "1411.4413v2",
+      "title": "Observation of the rare $B^0_s\\toμ^+μ^-$ decay from the combined analysis of CMS and LHCb data",
+      "authors": [
+        "The CMS",
+        "LHCb Collaborations",
+        ":"
+      ],
+      "year": 2014,
+      "category": "hep-ex",
+      "abstract": "A joint measurement is presented of the branching fractions $B^0_s\\toμ^+μ^-$ and $B^0\\toμ^+μ^-$ in proton-proton collisions at the LHC by the CMS and LHCb experiments. The data samples were collected in 2011 at a centre-of-mass energy of 7 TeV, and in 2012 at 8 TeV. The combined analysis produces the first observation of the $B^0_s\\toμ^+μ^-$ decay, with a statistical significance exceeding six standard deviations, and the best measurement of its branching fraction so far. Furthermore, evidence f"
+    },
+    {
+      "id": "2603.19019v1",
+      "title": "GWTC-4.0: Tests of General Relativity. I. Overview and General Tests",
+      "authors": [
+        "The LIGO Scientific Collaboration",
+        "the Virgo Collaboration",
+        "the KAGRA Collaboration"
+      ],
+      "year": 2026,
+      "category": "gr-qc",
+      "abstract": "The worldwide LIGO-Virgo-KAGRA network of gravitational-wave (GW) detectors continues to increase in sensitivity, thus increasing the quantity and quality of the detected GW signals from compact binary coalescences. These signals allow us to perform ever-more sensitive tests of general relativity (GR) in the dynamical and strong-field regime of gravity. This paper is the first of three, where we present the results of a suite of tests of GR using the binary signals included in the fourth GW Tran"
+    },
+    {
+      "id": "0901.0512v4",
+      "title": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+      "authors": [
+        "The ATLAS Collaboration",
+        "G. Aad",
+        "E. Abat"
+      ],
+      "year": 2008,
+      "category": "hep-ex",
+      "abstract": "A detailed study is presented of the expected performance of the ATLAS detector. The reconstruction of tracks, leptons, photons, missing energy and jets is investigated, together with the performance of b-tagging and the trigger. The physics potential for a variety of interesting physics processes, within the Standard Model and beyond, is examined. The study comprises a series of notes based on simulations of the detector and physics processes, with particular emphasis given to the data expected"
+    },
+    {
+      "id": "2509.04348v2",
+      "title": "GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation",
+      "authors": [
+        "The LIGO Scientific Collaboration",
+        "the Virgo Collaboration",
+        "the KAGRA Collaboration"
+      ],
+      "year": 2025,
+      "category": "astro-ph.CO",
+      "abstract": "We analyze data from 142 of the 218 gravitational-wave (GW) sources in the fourth LIGO-Virgo-KAGRA Collaboration (LVK) Gravitational-Wave Transient Catalog (GWTC-4.0) to estimate the Hubble constant $H_0$ jointly with the population properties of merging compact binaries. We measure the luminosity distance and redshifted masses of GW sources directly; in contrast, we infer GW source redshifts statistically through i) location of features in the compact object mass spectrum and merger rate evolut"
+    },
+    {
+      "id": "2408.12725v1",
+      "title": "DUNE Phase II: Scientific Opportunities, Detector Concepts, Technological Solutions",
+      "authors": [
+        "DUNE Collaboration",
+        "A. Abed Abud",
+        "B. Abi"
+      ],
+      "year": 2024,
+      "category": "physics.ins-det",
+      "abstract": "The international collaboration designing and constructing the Deep Underground Neutrino Experiment (DUNE) at the Long-Baseline Neutrino Facility (LBNF) has developed a two-phase strategy toward the implementation of this leading-edge, large-scale science project. The 2023 report of the US Particle Physics Project Prioritization Panel (P5) reaffirmed this vision and strongly endorsed DUNE Phase I and Phase II, as did the European Strategy for Particle Physics. While the construction of the DUNE "
+    },
+    {
+      "id": "2405.13491v2",
+      "title": "Euclid. I. Overview of the Euclid mission",
+      "authors": [
+        "Euclid Collaboration",
+        "Y. Mellier",
+        "Abdurro'uf"
+      ],
+      "year": 2024,
+      "category": "astro-ph.CO",
+      "abstract": "The current standard model of cosmology successfully describes a variety of measurements, but the nature of its main ingredients, dark matter and dark energy, remains unknown. Euclid is a medium-class mission in the Cosmic Vision 2015-2025 programme of the European Space Agency (ESA) that will provide high-resolution optical imaging, as well as near-infrared imaging and spectroscopy, over about 14,000 deg^2 of extragalactic sky. In addition to accurate weak lensing and clustering measurements th"
+    },
+    {
+      "id": "2305.10515v2",
+      "title": "The LHCb upgrade I",
+      "authors": [
+        "LHCb collaboration",
+        "R. Aaij",
+        "A. S. W. Abdelmotteleb"
+      ],
+      "year": 2023,
+      "category": "hep-ex",
+      "abstract": "The LHCb upgrade represents a major change of the experiment. The detectors have been almost completely renewed to allow running at an instantaneous luminosity five times larger than that of the previous running periods. Readout of all detectors into an all-software trigger is central to the new design, facilitating the reconstruction of events at the maximum LHC interaction rate, and their selection in real time. The experiment's tracking system has been completely upgraded with a new pixel ver"
+    }
+  ],
+  "4b_kinship": [
+    {
+      "id": "1402.2589v3",
+      "title": "Partitioning Perfect Graphs into Stars",
+      "authors": [
+        "René van Bevern",
+        "Robert Bredereck",
+        "Laurent Bulteau"
+      ],
+      "year": 2014,
+      "category": "cs.DM",
+      "abstract": "The partition of graphs into \"nice\" subgraphs is a central algorithmic problem with strong ties to matching theory. We study the partitioning of undirected graphs into same-size stars, a problem known to be NP-complete even for the case of stars on three vertices. We perform a thorough computational complexity study of the problem on subclasses of perfect graphs and identify several polynomial-time solvable cases, for example, on interval graphs and bipartite permutation graphs, and also NP-comp"
+    },
+    {
+      "id": "hep-th/9707234v2",
+      "title": "Variational Approach to Quantum Field Theory: Gaussian Approximation and the Perturbative Expansion around It",
+      "authors": [
+        "Jae Hyung Yee"
+      ],
+      "year": 1997,
+      "category": "hep-th",
+      "abstract": "The functional Schrodinger picture formulation of quantum field theory and the variational Gaussian approximation method based on the formulation are briefly reviewed. After presenting recent attempts to improve the variational approximation, we introduce a new systematic method based on the background field method, which enables one to compute the order-by-order correction terms to the Gaussian approximation of the effective action."
+    },
+    {
+      "id": "2311.15289v2",
+      "title": "Counting cliques without generalized theta graphs",
+      "authors": [
+        "Jun Gao",
+        "Zhuo Wu",
+        "Yisai Xue"
+      ],
+      "year": 2023,
+      "category": "math.CO",
+      "abstract": "The \\textit{generalized Turán number} $\\mathrm{ex}(n, T, F)$ is the maximum possible number of copies of $T$ in an $F$-free graph on $n$ vertices for any two graphs $T$ and $F$. For the book graph $B_t$, there is a close connection between $\\ex(n,K_3,B_t)$ and the Ruzsa-Szemerédi triangle removal lemma. Motivated by this, in this paper, we study the generalized Turán problem for generalized theta graphs, a natural extension of book graphs. Our main result provides a complete characterization of "
+    },
+    {
+      "id": "1903.10570v3",
+      "title": "A limit theorem for small cliques in inhomogeneous random graphs",
+      "authors": [
+        "Jan Hladky",
+        "Christos Pelekis",
+        "Matas Sileikis"
+      ],
+      "year": 2019,
+      "category": "math.CO",
+      "abstract": "The theory of graphons comes with a natural sampling procedure, which results in an inhomogeneous variant of the Erdős--Rényi random graph, called $W$-random graphs. We prove, via the method of moments, a limit theorem for the number of $r$-cliques in such random graphs. We show that, whereas in the case of dense Erdős--Rényi random graphs the fluctuations are normal of order $n^{r-1}$, the fluctuations in the setting of $W$-random graphs may be of order $0, n^{r-1}$, or $n^{r-0.5}$. Furthermore"
+    },
+    {
+      "id": "2004.10375v1",
+      "title": "Graph-based Kinship Reasoning Network",
+      "authors": [
+        "Wanhua Li",
+        "Yingqiang Zhang",
+        "Kangchen Lv"
+      ],
+      "year": 2020,
+      "category": "cs.CV",
+      "abstract": "In this paper, we propose a graph-based kinship reasoning (GKR) network for kinship verification, which aims to effectively perform relational reasoning on the extracted features of an image pair. Unlike most existing methods which mainly focus on how to learn discriminative features, our method considers how to compare and fuse the extracted feature pair to reason about the kin relations. The proposed GKR constructs a star graph called kinship relational graph where each peripheral node represe"
+    },
+    {
+      "id": "2603.01172v1",
+      "title": "Midterm Status Report of the ILC Technology Network Activities",
+      "authors": [
+        "ILC Technology Network"
+      ],
+      "year": 2026,
+      "category": "physics.acc-ph",
+      "abstract": "The ILC Technology Network (ITN) was established in 2022 by the ILC International Development Team, a subcommittee of the International Committee for Future Accelerators, to advance engineering studies toward the realisation of the International Linear Collider (ILC). While the ITN work packages focus on engineering activities for the ILC, their topics are also relevant to a broad range of accelerator applications in particle physics and beyond. These work packages are being carried out now by l"
+    },
+    {
+      "id": "0711.2360v2",
+      "title": "Every longest circuit of a 3-connected, $K_{3,3}$-minor free graph has a chord",
+      "authors": [
+        "E. Birmelé"
+      ],
+      "year": 2007,
+      "category": "math.CO",
+      "abstract": "Carsten Thomassen conjectured that every longest circuit in a 3-connected graph has a chord. We prove the conjecture for graphs having no $K_{3,3}$ minor, and consequently for planar graphs."
+    },
+    {
+      "id": "chao-dyn/9311011v2",
+      "title": "The Great Inequality In A Hamiltonian Planetary Theory",
+      "authors": [
+        "F. Varadi",
+        "M. Ghil",
+        "W. M. Kaula"
+      ],
+      "year": 1993,
+      "category": "nlin.CD",
+      "abstract": "The Jupiter-Saturn 2:5 near-commensurability is analyzed in a fully analytic Hamiltonian planetary theory. Computations for the Sun-Jupiter-Saturn system, extending to the third order of the masses and to the 8th degree in the eccentricities and inclinations, reveal an unexpectedly sensitive dependence of the solution on initial data and its likely nonconvergence. The source of the sensitivity and apparent lack of convergence is this near-commensurability, the so-called great inequality. This in"
+    }
+  ],
+  "5_hemispheric": [
+    {
+      "id": "1309.5840v1",
+      "title": "Reduced interhemispheric functional connectivity of children with autism: evidence from functional near infrared spectroscopy studies",
+      "authors": [
+        "Huilin Zhu",
+        "Yuebo Fan",
+        "Huan Guo"
+      ],
+      "year": 2013,
+      "category": "q-bio.NC",
+      "abstract": "Autism spectrum disorder is a neuro-developmental disorder characterized by abnormalities of neural synchronization. In this study, functional near infrared spectroscopy (fNIRS) is used to study the difference in functional connectivity in left and right inferior frontal cortices (IFC) and temporal cortices (TC) between autistic and typically developing children between 8-11 years of age. 10 autistic children and 10 typical ones were recruited in our study for 8-min resting state measurement. Re"
+    },
+    {
+      "id": "1304.7934v2",
+      "title": "Maximum Lebesgue Extension of Monotone Convex Functions",
+      "authors": [
+        "Keita Owari"
+      ],
+      "year": 2013,
+      "category": "math.FA",
+      "abstract": "Given a monotone convex function on the space of essentially bounded random variables with the Lebesgue property (order continuity), we consider its extension preserving the Lebesgue property to as big solid vector space of random variables as possible. We show that there exists a maximum such extension, with explicit construction, where the maximum domain of extension is obtained as a (possibly proper) subspace of a natural Orlicz-type space, characterized by a certain uniform integrability pro"
+    },
+    {
+      "id": "2207.08285v2",
+      "title": "Stochastic integration in Riemannian manifolds from a functional-analytic point of view",
+      "authors": [
+        "Alexandru Mustăţea"
+      ],
+      "year": 2022,
+      "category": "math.FA",
+      "abstract": "This article presents a construction of the concept of stochastic integration in Riemannian manifolds from a purely functional-analytic point of view. We show that there are infinitely many such integrals, and that any two of them are related by a simple formula. We also find that the Stratonovich and Itô integrals known to probability theorists are two instances of the general concept constructed herein."
+    },
+    {
+      "id": "2506.22951v2",
+      "title": "Hemispheric-Specific Coupling Improves Modeling of Functional Connectivity Using Wilson-Cowan Dynamics",
+      "authors": [
+        "Ramiro Plüss",
+        "Hernán Villota",
+        "Patricio Orio"
+      ],
+      "year": 2025,
+      "category": "q-bio.NC",
+      "abstract": "Large-scale neural mass models have been widely used to simulate resting-state brain activity from structural connectivity. In this work, we extend a well-established Wilson--Cowan framework by introducing a novel hemispheric-specific coupling scheme that differentiates between intra-hemispheric and inter-hemispheric structural interactions. We apply this model to empirical cortical connectomes and resting-state fMRI data from matched control and schizophrenia groups. Simulated functional connec"
+    },
+    {
+      "id": "1212.1120v4",
+      "title": "Order preserving and order reversing operators on the class of convex functions in Banach spaces",
+      "authors": [
+        "Alfredo N. Iusem",
+        "Daniel Reem",
+        "Benar F. Svaiter"
+      ],
+      "year": 2012,
+      "category": "math.FA",
+      "abstract": "A remarkable result by S. Artstein-Avidan and V. Milman states that, up to pre-composition with affine operators, addition of affine functionals, and multiplication by positive scalars, the only fully order preserving mapping acting on the class of lower semicontinuous proper convex functions defined on $\\mathbb{R}^n$ is the identity operator, and the only fully order reversing one acting on the same set is the Fenchel conjugation. Here fully order preserving (reversing) mappings are understood "
+    },
+    {
+      "id": "2109.13014v1",
+      "title": "Objective metrics for language lateralization of fMRI examinations: a new model for the classification of hemispheric dominance in healthy subjects and epileptic patients",
+      "authors": [
+        "M. Stroppi",
+        "D. Lizio",
+        "L. Berta"
+      ],
+      "year": 2021,
+      "category": "physics.med-ph",
+      "abstract": "Purpose: to compare different methods to calculate Laterality Index (LI), a metric which allows to evaluate hemispheric brain language dominance in functional MRI examinations (fMRI).\n  Methods: Two methods were considered for calculating LI: LI AVE and LI VOL , respectively based on the differences between measurements of average and volume of fMRI signal in brain hemispheres. Laterality curves were obtained calculating values of LI VOL with increasing thresholds of fMRI signal and fitted with "
+    },
+    {
+      "id": "math/0605595v3",
+      "title": "Functions on Symmetric Spaces and Oscillator Representations",
+      "authors": [
+        "Hongyu He"
+      ],
+      "year": 2006,
+      "category": "math.RT",
+      "abstract": "We study square integrable functions on the metaplectic group and functions on the space of unitary symmetric matrices. We relate them using the oscillator representations."
+    },
+    {
+      "id": "1602.00933v1",
+      "title": "Disentangling Brain Graphs: A Note on the Conflation of Network and Connectivity Analyses",
+      "authors": [
+        "Sean L. Simpson",
+        "Paul J. Laurienti"
+      ],
+      "year": 2016,
+      "category": "q-bio.QM",
+      "abstract": "Understanding the human brain remains the Holy Grail in biomedical science, and arguably in all of the sciences. Our brains represent the most complex systems in the world (and some contend the universe) comprising nearly one hundred billion neurons with septillions of possible connections between them. The structure of these connections engenders an efficient hierarchical system capable of consciousness, as well as complex thoughts, feelings, and behaviors. Brain connectivity and network analys"
+    }
+  ],
+  "5b_mcgilchrist": [
+    {
+      "id": "0811.1725v1",
+      "title": "On the structure of left and right F-, SM- and E-quasigroups",
+      "authors": [
+        "V. A. Shcherbacov"
+      ],
+      "year": 2008,
+      "category": "math.GR",
+      "abstract": "It is proved that any left F-quasigroup is isomorphic to the direct product of a left F-quasigroup with a unique idempotent element and isotope of a special form of a left distributive quasigroup. The similar theorems are proved for right F-quasigroups, left and right SM- and E-quasigroups. Information on simple quasigroups from these quasigroup classes is given, for example, finite simple F-quasigroup is a simple group or a simple medial quasigroup. It is proved that any left F-quasigroup is is"
+    },
+    {
+      "id": "1403.2076v3",
+      "title": "Hemispherical Power Asymmetry from a Space-Dependent Component of the Adiabatic Power Spectrum",
+      "authors": [
+        "John McDonald"
+      ],
+      "year": 2014,
+      "category": "astro-ph.CO",
+      "abstract": "The hemispherical power asymmetry observed by Planck and WMAP can be interpreted as due to a spatially-varying and scale-dependent component of the adiabatic power spectrum. We derive general constraints on the magnitude and scale-dependence of a component with a dipole spatial variation. The spectral index and the running of the spectral index can be significantly shifted from their inflation model values, resulting in a smaller spectral index and a more positive running. A key prediction is a "
+    },
+    {
+      "id": "2203.15919v3",
+      "title": "On the existence of left and right eigenvalues",
+      "authors": [
+        "Bamdad R. Yahaghi"
+      ],
+      "year": 2022,
+      "category": "math.RA",
+      "abstract": "In this note, we consider arbitrary finite-dimensional real algebras containing a copy of complex numbers. It is proved that matrices with entries from an arbitrary finite-dimensional real algebra containing a square root of negative one in its left (resp. right) associate set have left (resp. right) eigenvalues. A quick consequence of our main result is the existence of left and right eigenvalues for matrices with entries from finite-dimensional alternatives algebras containing a copy of comple"
+    },
+    {
+      "id": "2208.03490v2",
+      "title": "Left seminear-rings, groups semidirect products and left cancellative left semi-braces",
+      "authors": [
+        "Marco Castelli"
+      ],
+      "year": 2022,
+      "category": "math.QA",
+      "abstract": "We study some relations between left cancellative left semi-braces and other existing algebraic structures. In particular, we show that every left semi-brace arises from a left seminear-ring, extending the correspondence given by Rump between skew left braces and left near-rings in \\cite{rump2019set}. Moreover, we show a correspondence between certain groups semidirect products and left cancellative left semi-braces satisfying an additional hypothesis on the set of idempotents. As an application"
+    },
+    {
+      "id": "hep-ph/0301041v3",
+      "title": "Truly Minimal Left-Right Model of Quark and Lepton Masses",
+      "authors": [
+        "Biswajoy Brahmachari",
+        "Ernest Ma",
+        "Utpal Sarkar"
+      ],
+      "year": 2003,
+      "category": "hep-ph",
+      "abstract": "We propose a left-right model of quarks and leptons based on the gauge group $SU(3)_C \\times SU(2)_L \\times SU(2)_R \\times U(1)_{B-L}$, where the scalar sector consists of only two doublets: (1,2,1,1) and (1,1,2,1). As a result, any fermion mass, whether it be Majorana or Dirac, must come from dimension-five operators. This allows us to have a common view of quark and lepton masses, including the smallness of Majorana neutrino masses as the consequence of a double seesaw mechanism."
+    },
+    {
+      "id": "2602.12811v1",
+      "title": "Left-right asymmetry in predicting brain activity from LLMs' representations emerges with their formal linguistic competence",
+      "authors": [
+        "Laurent Bonnasse-Gahot",
+        "Christophe Pallier"
+      ],
+      "year": 2026,
+      "category": "cs.CL",
+      "abstract": "When humans and large language models (LLMs) process the same text, activations in the LLMs correlate with brain activity measured, e.g., with functional magnetic resonance imaging (fMRI). Moreover, it has been shown that, as the training of an LLM progresses, the performance in predicting brain activity from its internal activations improves more in the left hemisphere than in the right one. The aim of the present work is to understand which kind of competence acquired by the LLMs underlies the"
+    },
+    {
+      "id": "2211.09523v7",
+      "title": "Right-left asymmetry of the eigenvector method: A simulation study",
+      "authors": [
+        "László Csató"
+      ],
+      "year": 2022,
+      "category": "math.OC",
+      "abstract": "The eigenvalue method, suggested by the developer of the extensively used Analytic Hierarchy Process methodology, exhibits right-left asymmetry: the priorities derived from the right eigenvector do not necessarily coincide with the priorities derived from the reciprocal left eigenvector. This paper offers a comprehensive numerical experiment to compare the two eigenvector-based weighting procedures and their reasonable alternative of the row geometric mean with respect to four measures. The unde"
+    },
+    {
+      "id": "hep-ph/0207323v1",
+      "title": "The Matter-Antimatter Asymmetry of the Universe",
+      "authors": [
+        "F. W. Stecker"
+      ],
+      "year": 2002,
+      "category": "hep-ph",
+      "abstract": "I will give here an overview of the present observational and theoretical situation regarding the question of the matter-antimatter asymmetry of the universe and the related question of the existence of antimatter on a cosmological scale. I will also give a simple discussion of the role of CP violation in this subject."
+    }
+  ]
+}

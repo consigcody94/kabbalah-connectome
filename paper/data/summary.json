@@ -1,0 +1,130 @@
+{
+  "candidates": [
+    "TOL_11",
+    "QLI_11",
+    "JOINED_node",
+    "JOINED_edge",
+    "JACOBS",
+    "BRAIN_10"
+  ],
+  "graphs": {
+    "TOL_10": {
+      "N": 10,
+      "M": 22
+    },
+    "TOL_11": {
+      "N": 11,
+      "M": 25
+    },
+    "QLI_10": {
+      "N": 10,
+      "M": 22
+    },
+    "QLI_11": {
+      "N": 11,
+      "M": 25
+    },
+    "JOINED_edge": {
+      "N": 20,
+      "M": 54
+    },
+    "JOINED_node": {
+      "N": 21,
+      "M": 50
+    },
+    "JACOBS": {
+      "N": 40,
+      "M": 91
+    },
+    "BRAIN_10": {
+      "N": 21,
+      "M": 48
+    },
+    "BRAIN_10nb": {
+      "N": 20,
+      "M": 41
+    },
+    "BRAIN_34": {
+      "N": 69,
+      "M": 370
+    }
+  },
+  "daath_role": {
+    "node": "Daath",
+    "degree": 6,
+    "degree_z": 0.7734533520181626,
+    "betweenness": 0.5263157894736842,
+    "betweenness_rank": 1,
+    "closeness": 0.5555555555555556,
+    "is_articulation": true,
+    "components_after_removal": 2,
+    "fraction_isolated_after": 0.5
+  },
+  "corpus_callosum_role_static": {
+    "node": "CorpusCallosum",
+    "degree": 16,
+    "degree_z": 4.125684983545812,
+    "betweenness": 0.6560902255639098,
+    "betweenness_rank": 1,
+    "closeness": 0.8333333333333334,
+    "is_articulation": true,
+    "components_after_removal": 2,
+    "fraction_isolated_after": 0.5
+  },
+  "corpus_callosum_role_ensemble_mean": {
+    "degree": 36.24,
+    "betweenness": 0.4434997793962323,
+    "betweenness_rank": 1.0,
+    "fraction_isolated_after": 0.045882352941176464
+  },
+  "p_values": {
+    "TOL_11": {
+      "d_inv_real": 0.48227111116563504,
+      "p_ER": 0.8895027624309392,
+      "p_CFG": 0.9848484848484849,
+      "p_WS": 0.82,
+      "p_BA": 0.995,
+      "p_GEO": 0.015
+    },
+    "QLI_11": {
+      "d_inv_real": 0.48227111116563504,
+      "p_ER": 0.8895027624309392,
+      "p_CFG": 0.9848484848484849,
+      "p_WS": 0.82,
+      "p_BA": 0.995,
+      "p_GEO": 0.015
+    },
+    "JOINED_node": {
+      "d_inv_real": 0.5367547425216359,
+      "p_ER": 0.9668508287292817,
+      "p_CFG": 1.0,
+      "p_WS": 0.95,
+      "p_BA": 1.0,
+      "p_GEO": 0.065
+    },
+    "JOINED_edge": {
+      "d_inv_real": 0.35771741376147903,
+      "p_ER": 0.16022099447513813,
+      "p_CFG": 0.7121212121212122,
+      "p_WS": 0.12,
+      "p_BA": 0.855,
+      "p_GEO": 0.0
+    },
+    "JACOBS": {
+      "d_inv_real": 0.6337935859968555,
+      "p_ER": 0.935,
+      "p_CFG": 0.995,
+      "p_WS": 1.0,
+      "p_BA": 1.0,
+      "p_GEO": 0.82
+    },
+    "BRAIN_10": {
+      "d_inv_real": 0.0,
+      "p_ER": 0.0,
+      "p_CFG": 0.0,
+      "p_WS": 0.0,
+      "p_BA": 0.0,
+      "p_GEO": 0.0
+    }
+  }
+}
