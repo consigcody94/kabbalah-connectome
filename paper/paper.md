@@ -1,6 +1,6 @@
 # Topological Correspondence Between Kabbalistic Tree Diagrams and Cerebral Hemispheric Network Structure: A Graph-Theoretic Test of the Two-Trees Hypothesis
 
-**Anonymous, with claude-opus-4-7 (computational)**
+**Cody Churchwell**, with claude-opus-4-7 (computational)
 *Working paper, version 1.1 — May 2026 (revised after testing against the Budapest Reference Connectome)*
 
 ---
@@ -419,7 +419,7 @@ All p-values are computed from k = 200 null draws per model. Increasing k tighte
 
 ## Funding and Conflicts
 
-No funding. No conflicts of interest. The first author is a software user; the computational analysis was performed by a large language model (Claude Opus 4.7, Anthropic) given the task description, with all decisions on framing, methodology, and interpretation made jointly.
+No funding. No conflicts of interest. The first author (Cody Churchwell) is the principal investigator; the computational analysis was performed by a large language model (Claude Opus 4.7, Anthropic) given the task description, with all decisions on framing, methodology, and interpretation made jointly.
 
 ## Data and Code Availability
 

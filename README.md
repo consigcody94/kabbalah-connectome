@@ -113,9 +113,13 @@ Code and data: CC0 (public domain). Use freely.
 
 If you use this code or data in your own work, please cite:
 
-> [author] (2026). Topological Correspondence Between Kabbalistic Tree Diagrams and Cerebral Hemispheric Network Structure: A Graph-Theoretic Test of the Two-Trees Hypothesis. https://github.com/[user]/[repo]
+> Churchwell, C. (2026). Topological Correspondence Between Kabbalistic Tree Diagrams and Cerebral Hemispheric Network Structure: A Graph-Theoretic Test of the Two-Trees Hypothesis. https://github.com/consigcody94/kabbalah-connectome
 
 The paper text is in [paper/paper.md](paper/paper.md).
+
+## Author
+
+Cody Churchwell ([@consigcody94](https://github.com/consigcody94))
 
 ## Acknowledgements
 
