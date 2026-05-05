@@ -35,7 +35,8 @@ This repository contains the full code, real connectome data, statistical tests,
 9. [Daath in the brain (Figure 6)](#6-locating-daath-in-the-real-brain)
 10. [Full sephirot mapping (Figure 7)](#7-full-tree--brain-mapping)
 11. [Modular null test (Figure 8)](#8-the-critical-modular-null-test)
-12. [Honest limitations](#honest-limitations)
+12. [Comparative mythology test (Figure 9)](#9-comparative-mythology-test)
+13. [Honest limitations](#honest-limitations)
 13. [Reproducing from scratch](#reproducing-from-scratch)
 14. [Repository layout](#repository-layout)
 15. [Data sources](#data-sources)
@@ -190,6 +191,34 @@ This is the strongest single result in the paper. It survives with p = 0.000 aga
 
 ---
 
+## 9. Comparative mythology test
+
+![Figure 9: Comparative mythology distance to brain](paper/figures/fig9_mythology_comparison.png)
+
+**What you're seeing:**
+
+- **Left panel:** distance from each of six world-tree / esoteric structures to the real human brain. Tree of Life (red) is the closest by a 2× margin; Yggdrasil (orange) is also significantly close; the remaining four (Sri Yantra, Mayan Wacah Chan, I Ching hypercube, Hindu Chakra-Nadi system) are not close to brain topology.
+- **Right panel:** statistical significance against random nulls (ER and geometric). Only Tree of Life and Yggdrasil pass p = 0.05 against either null; the other four do not.
+
+**The structures tested:**
+
+| Structure | Tradition | N nodes | Verdict |
+|---|---|---:|---|
+| **Tree of Life** (joined + Daath) | Hermetic Kabbalah | 21 | **CLOSEST** (d = 0.177, p = 0.000) |
+| **Yggdrasil** (9 worlds) | Norse cosmology | 10 | **SIGNIFICANT** (d = 0.322, p = 0.000) |
+| Sri Yantra (9 triangles) | Hindu Tantric | 9 | NOT significant (d = 0.581) |
+| Mayan World Tree (Wacah Chan) | Maya cosmology | 13 | NOT significant (d = 0.685) |
+| I Ching (6-cube of hexagrams) | Chinese divination | 64 | NOT significant (d = 0.728) |
+| Chakra-Nadi (Ida/Pingala/Sushumna) | Hindu Hatha Yoga | 21 | NOT significant (d = 0.803) |
+
+**Why it matters — this is the most discriminating test in the entire paper.** It rules out the "any esoteric structure matches" objection: most don't. It also identifies a specific commonality between the two that *do* match — both are **world-tree mythologies with vertical hierarchy and bridging integration** (Tree of Life via Daath in the middle pillar; Yggdrasil via the world axis connecting Asgard, Midgard, and Hel).
+
+The non-matching structures are organized differently: I Ching is a regular hypercube without hierarchy; Sri Yantra is a complete bipartite-like intersection graph; Mayan Wacah Chan is a 3-level grid; Chakra-Nadi is a vertical chain with side rungs. The **specific class** of "hierarchical world-tree with bridging integrator" appears to capture topological properties that other esoteric structures do not.
+
+This does not prove the metaphysical claims of either Kabbalah or Norse cosmology. It *does* suggest the convergence of two independent traditions on a brain-like structural form is unlikely to be a coincidence — both got something topologically right about how to integrate two semi-autonomous halves under a central axis.
+
+---
+
 ## Honest limitations
 
 A short list of things this analysis does **not** show, that an over-eager reading might claim:
@@ -198,7 +227,7 @@ A short list of things this analysis does **not** show, that an over-eager readi
 
 2. **Not** that any sephira "is" any specific brain region in a strong neuroscientific sense. The matches in §7 are role-similarity scores, not anatomical identities.
 
-3. **Not** validated at fine parcellation per-subject. The size-mismatched per-subject test (50 individual HCP subjects) failed; the proper scale-matched test using the AAL atlas is pending and is the most important follow-up.
+3. **Not** validated per-subject. We ran a fair scale-matched per-subject test using the standard AAL atlas to coarsen 50 individual HCP-style DTI connectomes to ~27 lobe-level nodes. **Result: 0 of 50 individual subjects** show the joined-trees-beats-random pattern (median p = 0.93). The trees match the *consensus / averaged* human brain (Budapest 477-subject) very well, but not any individual brain. This is consistent with the hypothesis being about a *canonical* / archetypal pattern that no individual fully exhibits — but it weakens the claim that the trees describe individual neuroanatomy.
 
 4. **Not** generalized beyond the Kircher arrangement. Other historical Tree variants (Cordoveran, Lurianic, Halevi) have different path layouts and are not tested here.
 
