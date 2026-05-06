@@ -36,7 +36,9 @@ This repository contains the full code, real connectome data, statistical tests,
 10. [Full sephirot mapping (Figure 7)](#7-full-tree--brain-mapping)
 11. [Modular null test (Figure 8)](#8-the-critical-modular-null-test)
 12. [Comparative mythology test (Figure 9)](#9-comparative-mythology-test)
-13. [Honest limitations](#honest-limitations)
+13. [Expanded mythology — 12 structures (Figure 10)](#10-expanded-mythology-12-structures-across-8-traditions)
+14. [Sensitivity / perturbation analysis (Figure 11)](#11-sensitivity--perturbation-analysis)
+15. [Honest limitations](#honest-limitations)
 13. [Reproducing from scratch](#reproducing-from-scratch)
 14. [Repository layout](#repository-layout)
 15. [Data sources](#data-sources)
@@ -216,6 +218,53 @@ This is the strongest single result in the paper. It survives with p = 0.000 aga
 The non-matching structures are organized differently: I Ching is a regular hypercube without hierarchy; Sri Yantra is a complete bipartite-like intersection graph; Mayan Wacah Chan is a 3-level grid; Chakra-Nadi is a vertical chain with side rungs. The **specific class** of "hierarchical world-tree with bridging integrator" appears to capture topological properties that other esoteric structures do not.
 
 This does not prove the metaphysical claims of either Kabbalah or Norse cosmology. It *does* suggest the convergence of two independent traditions on a brain-like structural form is unlikely to be a coincidence — both got something topologically right about how to integrate two semi-autonomous halves under a central axis.
+
+---
+
+## 10. Expanded mythology — 12 structures across 8 traditions
+
+![Figure 10: Expanded mythology comparison](paper/figures/fig10_expanded_mythology.png)
+
+**What you're seeing:** the comparative mythology test extended from 6 to 12 structures. Added: **Tarot Major Arcana** (22 cards as line graph of TOL paths), **Cordoveran 13-channel** TOL variant (Pardes Rimmonim 1548), **Lurianic Partzufim** (5 Divine Personalities + inner soul levels), **Buddhist 5-Dhyani-Buddha Mandala** (Vajrayana), **Lakota Medicine Wheel**, and **Tree of Life with Lightning Flash return path**.
+
+**Five structures from four traditions now significantly match brain topology:**
+
+| Rank | Structure | Tradition | d | Significance |
+|---:|---|---|---:|---|
+| 1 | **Tree of Life** (joined+Daath) | Hermetic Kabbalah | 0.177 | ✓ |
+| 2 | Tree of Life + Lightning return | Hermetic Kabbalah | 0.246 | ✓ |
+| 3 | **Yggdrasil** (9 worlds) | Norse cosmology | 0.322 | ✓ |
+| 4 | **Lurianic Partzufim** | Lurianic Kabbalah | 0.360 | ✓ |
+| 5 | **Buddhist 5-Dhyani-Buddha Mandala** | Vajrayana | 0.501 | ✓ |
+| 6+ | Sri Yantra, Cordoveran, Tarot, Mayan, Medicine Wheel, I Ching, Chakra-Nadi | various | 0.58–0.80 | ✗ |
+
+**Surprises and confirmations:**
+- The **Tarot Major Arcana** (22 cards) does *not* match — even though Tarot has explicit Kabbalistic correspondences. The line-graph structure (one node per TOL path) just isn't brain-like.
+- The **Cordoveran 13-channel variant** does *not* match — only the more elaborate Hermetic / Lurianic versions of Kabbalah work.
+- The **Buddhist 5-Buddha Mandala** matches — a non-Kabbalistic, non-tree mandala structure can also be brain-like.
+- The **I Ching hypercube** (64 hexagrams) does *not* match — perfect symmetry without hierarchy fails.
+
+**Pattern:** what the matching structures have in common is **multiple hierarchical levels with bridging integration between subsystems**. This is the single most discriminating finding in the project.
+
+---
+
+## 11. Sensitivity / perturbation analysis
+
+![Figure 11: Sensitivity to graph perturbations](paper/figures/fig11_sensitivity.png)
+
+**What you're seeing:** three panels showing how the brain-match degrades when you randomly perturb the joined-trees graph. Black dashed line = baseline d = 0.177. Red dotted line = random-graph distance ~0.6.
+
+- **Add k random edges:** d grows from 0.21 (k=1) to 0.45 (k=10) — gradual degradation.
+- **Remove k random edges:** d barely moves for k=1-3, reaches 0.32 at k=10.
+- **Rewire k random edges:** more destructive — k=20 (40% of edges) reaches 0.60, indistinguishable from random.
+
+**Why it matters:** the brain-match is **robust** to small perturbations (1-3 edge changes barely move it) but breaks down with heavy rewiring. This is the expected behavior of a *real* structural finding: the match is in the overall topology, not in any one specific edge. If a single edge change had collapsed the result, it would be an artifact. It doesn't, so it isn't.
+
+---
+
+## Cross-species: a notable negative
+
+We also tested whether the joined-trees graph matches **macaque cortex** (Young 1993, 47 nodes, 313 edges — the foundational dataset in primate connectomics). **Result:** d = 0.634; p ≥ 0.995 against all 5 nulls. The macaque test fails decisively at this scale, with the same size-mismatch caveat as the per-subject failure (47 vs 21 nodes; no anatomical labels available to coarsen). The honest reading: either the result is specifically about human cortex, or it's an artifact of size mismatch. The two cannot be distinguished from current data.
 
 ---
 
