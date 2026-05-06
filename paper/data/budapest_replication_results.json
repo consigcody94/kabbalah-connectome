@@ -1,0 +1,98 @@
+{
+  "all_20k": {
+    "coarse_N": 22,
+    "coarse_E": 64,
+    "d_joined": 0.17665167313696856,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "all_200k": {
+    "coarse_N": 24,
+    "coarse_E": 88,
+    "d_joined": 0.3078116883614805,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "all_1m": {
+    "coarse_N": 24,
+    "coarse_E": 97,
+    "d_joined": 0.3851885327292495,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.04,
+      "BA": 0.0,
+      "GEO": 0.23
+    }
+  },
+  "female_20k": {
+    "coarse_N": 22,
+    "coarse_E": 50,
+    "d_joined": 0.17814494489568108,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "female_200k": {
+    "coarse_N": 24,
+    "coarse_E": 76,
+    "d_joined": 0.2150087563198697,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "female_1m": {
+    "coarse_N": 24,
+    "coarse_E": 84,
+    "d_joined": 0.24628832468579753,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "male_200k": {
+    "coarse_N": 22,
+    "coarse_E": 59,
+    "d_joined": 0.14392708492987258,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  },
+  "male_1m": {
+    "coarse_N": 23,
+    "coarse_E": 68,
+    "d_joined": 0.16166168216306115,
+    "p_values": {
+      "ER": 0.0,
+      "CFG": 0.0,
+      "WS": 0.0,
+      "BA": 0.0,
+      "GEO": 0.0
+    }
+  }
+}

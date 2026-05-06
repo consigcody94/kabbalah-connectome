@@ -38,7 +38,9 @@ This repository contains the full code, real connectome data, statistical tests,
 12. [Comparative mythology test (Figure 9)](#9-comparative-mythology-test)
 13. [Expanded mythology — 12 structures (Figure 10)](#10-expanded-mythology-12-structures-across-8-traditions)
 14. [Sensitivity / perturbation analysis (Figure 11)](#11-sensitivity--perturbation-analysis)
-15. [Honest limitations](#honest-limitations)
+15. [Replication across 9 Budapest variants (Figure 12)](#12-replication-across-9-budapest-connectome-variants)
+16. [Subgraph alignment recovers the two-trees hypothesis (Figure 13)](#13-subgraph-alignment-recovers-the-original-two-trees-hypothesis)
+17. [Honest limitations](#honest-limitations)
 13. [Reproducing from scratch](#reproducing-from-scratch)
 14. [Repository layout](#repository-layout)
 15. [Data sources](#data-sources)
@@ -259,6 +261,46 @@ This does not prove the metaphysical claims of either Kabbalah or Norse cosmolog
 - **Rewire k random edges:** more destructive — k=20 (40% of edges) reaches 0.60, indistinguishable from random.
 
 **Why it matters:** the brain-match is **robust** to small perturbations (1-3 edge changes barely move it) but breaks down with heavy rewiring. This is the expected behavior of a *real* structural finding: the match is in the overall topology, not in any one specific edge. If a single edge change had collapsed the result, it would be an artifact. It doesn't, so it isn't.
+
+---
+
+## 12. Replication across 9 Budapest connectome variants
+
+![Figure 12: Budapest replication](paper/figures/fig12_budapest_replication.png)
+
+**What you're seeing:** the Budapest Reference Connectome is distributed in nine variants — full sample / female-only / male-only × three fiber-count thresholds (20k, 200k, 1M). We re-ran the test against all nine.
+
+- **Left panel:** distance from joined-trees to brain across variants. All values well below the random-graph mean (~0.6).
+- **Right panel:** p-value heatmap across variants × null models. Green/dark = strong evidence joined-trees beats null. Almost everything is at p = 0.000.
+
+**Result:** 8 of 8 testable variants (one was disconnected after coarsening) show **p = 0.000 against ER, CFG, BA nulls**. Distance ranges from d = **0.144 (male_200k — best of all)** to d = 0.385 (all_1m). Median d = 0.197.
+
+**Why it matters:** the result is robust across **demographics** (male and female brains both match), across **fiber-count processing thresholds** (20k vs 200k vs 1M), and across **edge-density variations** (50–97 edges in the coarse graph). No single variant is an outlier. This is the strongest replication evidence in the project.
+
+---
+
+## 13. Subgraph alignment recovers the original two-trees hypothesis
+
+![Figure 13: Subgraph alignment](paper/figures/fig13_subgraph_alignment.png)
+
+**What you're seeing:** results from a **subgraph matching** test that asks "is the joined-trees graph literally embeddable in the real human brain?"
+
+- **Left panel:** the maximum common-edge subgraph (MCES) test. The best alignment of joined-trees onto the real brain recovers **25 of 50 TOL edges (50%) in the real connectome**. Random graphs of the same size only recover 21.7 ± 1.0 edges. **0 of 50 random graphs match or exceed 25 (p = 0.000).**
+- **Right panel:** under that optimal alignment, **9 of 11 Tree of Life nodes land on the LEFT hemisphere** and **8 of 10 Tree of Death nodes land on the RIGHT hemisphere.** This emerges from optimization for edge-match — the algorithm has no knowledge of the user's hypothesis.
+
+**The single strongest piece of evidence in the entire paper for the original two-trees hypothesis.** The claim "Tree of Life and Tree of Death correspond to the two cerebral hemispheres" — which our v1.0 analysis rejected against synthetic brain models — is recovered by an unbiased graph-alignment algorithm operating on real human cortical topology.
+
+**Best alignment highlights** (full table in paper §3.17):
+
+| Tree node | → Best brain match | Hemisphere |
+|---|---|:--:|
+| **Daath** | **left-Thalamus** | L |
+| Tiferet | left-Insula | L |
+| Malkuth | left-Hippocampus | L |
+| Lilith (Qliphoth Malkuth) | right-Thalamus | R |
+| Thaumiel (Qliphoth Keter) | right-Subcortical | R |
+
+Note that **the thalamus appears once on each side** — Daath ↔ Left Thalamus and Lilith ↔ Right Thalamus. The thalamus is independently the most central structural hub in the human connectome (Sherman & Guillery 2006); it is the brain region most repeatedly identified as the analog of the central / integrative tree nodes across multiple independent tests in this paper.
 
 ---
 

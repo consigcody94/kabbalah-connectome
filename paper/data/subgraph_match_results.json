@@ -1,0 +1,32 @@
+{
+  "exact_subgraph_isomorphism": false,
+  "joined_trees_total_edges": 50,
+  "best_mces_in_brain": 25,
+  "best_mces_pct": 50.0,
+  "random_mces_mean": 21.733333333333334,
+  "random_mces_std": 0.9752492558885193,
+  "p_random_at_least_as_good": 0.0,
+  "best_mapping": {
+    "Keter": "right-Parietal",
+    "Chokhmah": "right-Frontal",
+    "Binah": "left-Somatosensory",
+    "Chesed": "left-Frontal",
+    "Geburah": "left-Motor",
+    "Tiferet": "left-Insula",
+    "Netzach": "left-Temporal",
+    "Hod": "left-Subcortical",
+    "Yesod": "left-Parietal",
+    "Malkuth": "left-Hippocampus",
+    "Daath": "left-Thalamus",
+    "Thaumiel": "right-Subcortical",
+    "Ghagiel": "left-Occipital",
+    "Sathariel": "right-Cingulate",
+    "Gamchicoth": "right-Motor",
+    "Golachab": "left-Cingulate",
+    "Thagirion": "right-Hippocampus",
+    "Harab Serapel": "right-Insula",
+    "Samael": "right-Occipital",
+    "Gamaliel": "right-Temporal",
+    "Lilith": "right-Thalamus"
+  }
+}
