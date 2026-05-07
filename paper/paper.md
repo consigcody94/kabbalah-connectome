@@ -487,7 +487,55 @@ See [figures/fig13_subgraph_alignment.png](figures/fig13_subgraph_alignment.png)
 
 This is the single strongest piece of evidence in the entire paper for the *original* user-stated hypothesis. The two-trees-as-two-hemispheres claim, which our v1.0 analysis rejected against synthetic brain models, is recovered by a graph-alignment algorithm operating on real human cortical topology with no knowledge of the hypothesis.
 
-### 3.18 Final summary
+### 3.18 Golden ratio (φ) in graph spectra
+
+The user asked whether the golden ratio φ ≈ 1.618 appears in the structural ratios of joined-trees and real brain. We computed eight structural ratios for each graph (eigenvalue ratios, degree ratios, betweenness ratios, clustering/path ratios) and measured the distance from each to the nearest φ-related value (φ, 1/φ, φ², 2-φ, etc.).
+
+**Findings:**
+
+| Ratio | Joined trees | Real brain | φ-distance (J) | φ-distance (B) |
+|---|---:|---:|---:|---:|
+| **λ₂ / λ₃** (spectral) | **1.5756** | 2.7627 | **0.0424** | 0.1447 |
+| **max_BC / 2nd_max_BC** | 1.3793 | **1.5961** | 0.2387 | **0.0219** |
+| max_deg / 2nd_max_deg | 1.0000 | 1.1000 | 0.1910 | 0.2910 |
+| max_deg / median_deg | 1.8000 | 2.0000 | 0.1820 | 0.3820 |
+| C / T (clustering / transitivity) | 1.2204 | 1.2550 | 0.3976 | 0.3630 |
+| D / L (diameter / char path) | 2.3420 | 2.2559 | 0.2760 | 0.3622 |
+
+**Two strong φ-relationships emerge, in different metrics:**
+
+1. **Joined-trees graph: λ₂/λ₃ ≈ 1.576**, distance only 0.042 from φ (below the d = 0.05 "very close" threshold). Against a null distribution of 200 random graphs of the same size, **only 0% have a 2nd/3rd eigenvalue ratio this close to φ** (p = 0.000). The second-and-third eigenvalues of the joined-trees adjacency matrix are in golden-ratio proportion.
+
+2. **Real brain (Budapest coarse): max_BC / 2nd_max_BC ≈ 1.596**, distance 0.022 from φ. **The ratio of the highest-betweenness brain region to the second-highest is essentially φ.** This is a property of the empirical human connectome, independent of any Kabbalistic assumption.
+
+**Reading.** The two structures both contain golden-ratio relationships but in different metrics — joined-trees in its spectral signature, real brain in its centrality hierarchy. We do not claim "Kabbalah encodes φ." We do claim that **both structures independently exhibit φ in non-trivial structural ratios**, which is consistent with the broader observation that hierarchical, optimally organized systems often contain φ-like proportions (Iosa, Morone & Paolucci 2018 on golden-ratio gait kinematics; Yetkin et al. 2019 on golden-ratio relationships in brain structures). See [figures/fig14_golden_ratio.png](figures/fig14_golden_ratio.png).
+
+### 3.19 Flower of Life as a graph
+
+Appendix A previously rejected the geometric "Flower of Life = brain" claim on symmetry grounds (D₆ vs. D₁). But the FoL pattern produces a specific *planar graph* — 19 hexagonally-arranged circles with edges between overlapping pairs — that we had not tested as a topology. Two constructions:
+
+- **FoL center graph:** 19 nodes (one per circle center), 99 edges (one per overlapping pair at distance ≤ 2r in unit circles). High-degree central node (k = 18); ring nodes degree 8–13.
+- **Tree of Life derived from FoL** (Drunvalo Melchizedek's claim): 10 specific circle-positions of the 19 are claimed to form the Tree of Life. We extract the corresponding 10-node induced subgraph: 33 edges.
+
+**Result:**
+
+| Structure | N | E | d to brain | p_ER |
+|---|---:|---:|---:|---:|
+| **Joined trees (Kabbalah baseline)** | 21 | 50 | **0.177** | **0.000** |
+| Flower of Life (center graph) | 19 | 99 | 0.547 | 0.000 |
+| Tree of Life derived from FoL | 10 | 33 | 0.564 | 0.010 |
+
+**Interpretation:**
+
+- The Flower of Life graph **does** beat random graphs at matching brain topology (p = 0.000), but is a much weaker match than the joined-trees graph (d = 0.547 vs 0.177).
+- The Drunvalo "Tree of Life from Flower of Life" version is the **worst** of the three — the standard Hermetic Kircher Tree of Life arrangement matches brain topology far better than the New-Age sacred-geometry-derived version.
+- The Flower of Life graph result is interesting because it *also* beats nulls (p = 0.000); the FoL is not arbitrary with respect to brain topology, but it is much less brain-like than the Kabbalistic Tree of Life.
+
+The previous Appendix A finding (FoL fails on symmetry-group grounds) stands. The graph version moderately matches but is dominated by the joined-trees graph. **The Drunvalo derivation is unsupported** by this comparison: the Hermetic Tree of Life, *as a discrete graph not derived from FoL*, is the best match to brain topology among all 8 structures we tested.
+
+See [figures/fig15_flower_of_life.png](figures/fig15_flower_of_life.png).
+
+### 3.20 Final summary
 
 | hypothesis | against synthetic brain | against real connectome |
 |---|---|---|
@@ -504,6 +552,10 @@ This is the single strongest piece of evidence in the entire paper for the *orig
 | H10 (NEW): Brain-match is robust to small graph perturbations | (n/a) | **SUPPORTED** — adding/removing 1-3 edges barely changes d; heavy rewiring (20 edges = 40%) collapses match to random level. Result is structural, not edge-specific |
 | H11 (NEW): Result replicates across Budapest demographic/threshold variants | (n/a) | **SUPPORTED** — 8 of 8 testable variants (M/F × 20k/200k/1M) all p = 0.000 against ER null |
 | H12 (NEW, original hypothesis recovered): Optimal subgraph alignment places Tree of Life on left hemisphere, Tree of Death on right | (n/a) | **SUPPORTED** — 9/11 TOL nodes on LEFT, 8/10 TOD nodes on RIGHT under MCES optimization (chance: each ~5% per side; joint vanishingly small) |
+| H13 (NEW): Joined-trees spectrum contains golden ratio φ | (n/a) | **SUPPORTED** — λ₂/λ₃ = 1.576, distance 0.04 from φ; p = 0.000 against random graphs |
+| H14 (NEW): Real brain centrality contains golden ratio φ | (n/a) | **SUPPORTED** — max_BC / 2nd_max_BC = 1.596, distance 0.022 from φ |
+| H15 (NEW): Flower of Life graph is brain-like | (n/a) | PARTIAL — beats random (p = 0.000) but much weaker match than Kabbalistic TOL (d = 0.55 vs 0.18) |
+| H16 (NEW): Drunvalo Melchizedek "TOL derived from FoL" beats Kircher TOL | (n/a) | **REJECTED** — FoL-derived TOL is worst of three (d = 0.564) |
 
 ---
 

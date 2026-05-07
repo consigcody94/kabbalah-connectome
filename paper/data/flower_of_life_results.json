@@ -1,0 +1,20 @@
+{
+  "Joined trees (Kabbalah baseline)": {
+    "N": 21,
+    "E": 50,
+    "d_real": 0.17665167313696856,
+    "p_ER": 0.0
+  },
+  "Flower of Life (center graph)": {
+    "N": 19,
+    "E": 99,
+    "d_real": 0.5468808318912495,
+    "p_ER": 0.0
+  },
+  "Tree of Life derived from FoL": {
+    "N": 10,
+    "E": 33,
+    "d_real": 0.5640281333173787,
+    "p_ER": 0.01
+  }
+}

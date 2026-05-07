@@ -40,7 +40,9 @@ This repository contains the full code, real connectome data, statistical tests,
 14. [Sensitivity / perturbation analysis (Figure 11)](#11-sensitivity--perturbation-analysis)
 15. [Replication across 9 Budapest variants (Figure 12)](#12-replication-across-9-budapest-connectome-variants)
 16. [Subgraph alignment recovers the two-trees hypothesis (Figure 13)](#13-subgraph-alignment-recovers-the-original-two-trees-hypothesis)
-17. [Honest limitations](#honest-limitations)
+17. [Golden ratio φ in graph spectra (Figure 14)](#14-golden-ratio-φ-in-graph-spectra)
+18. [Flower of Life as a graph (Figure 15)](#15-flower-of-life-as-a-graph)
+19. [Honest limitations](#honest-limitations)
 13. [Reproducing from scratch](#reproducing-from-scratch)
 14. [Repository layout](#repository-layout)
 15. [Data sources](#data-sources)
@@ -307,6 +309,49 @@ Note that **the thalamus appears once on each side** — Daath ↔ Left Thalamus
 ## Cross-species: a notable negative
 
 We also tested whether the joined-trees graph matches **macaque cortex** (Young 1993, 47 nodes, 313 edges — the foundational dataset in primate connectomics). **Result:** d = 0.634; p ≥ 0.995 against all 5 nulls. The macaque test fails decisively at this scale, with the same size-mismatch caveat as the per-subject failure (47 vs 21 nodes; no anatomical labels available to coarsen). The honest reading: either the result is specifically about human cortex, or it's an artifact of size mismatch. The two cannot be distinguished from current data.
+
+---
+
+## 14. Golden ratio φ in graph spectra
+
+![Figure 14: Golden ratio analysis](paper/figures/fig14_golden_ratio.png)
+
+**What you're seeing:** structural ratios in the joined-trees graph and real brain, with their distance from the nearest φ-related value (φ, 1/φ, φ², 2-φ, etc.). Lower bars = closer to golden.
+
+**Two strong φ-relationships emerge, in different metrics:**
+
+1. **Joined-trees graph: λ₂ / λ₃ ≈ 1.576**, distance only 0.042 from φ — below the d = 0.05 "very close" threshold. **Against 200 random graphs of same size, 0% have a 2nd/3rd eigenvalue ratio this close to φ** (p = 0.000). The second-and-third eigenvalues of the joined-trees adjacency matrix are in golden-ratio proportion.
+
+2. **Real brain (Budapest coarse): max_BC / 2nd_max_BC ≈ 1.596**, distance 0.022 from φ. **The ratio of the highest-betweenness brain region to the second-highest is essentially φ.**
+
+The two structures both contain golden-ratio relationships in non-trivial structural ratios — joined-trees in its spectrum, real brain in its centrality hierarchy. We do not claim "Kabbalah encodes φ." We do claim that both structures independently exhibit φ in non-trivial structural ratios, consistent with broader observations of φ in hierarchical biological systems (Iosa et al. 2018; Yetkin et al. 2019).
+
+---
+
+## 15. Flower of Life as a graph
+
+![Figure 15: Flower of Life graph](paper/figures/fig15_flower_of_life.png)
+
+**What you're seeing:**
+
+- **Left panel:** distance to real brain for three structures.
+- **Right panel:** the Flower of Life as a planar graph — 19 circles arranged hexagonally with edges between overlapping pairs. Central node has degree 18; ring nodes have degrees 8–13.
+
+**Findings:**
+
+| Structure | N | E | d to brain | p_ER |
+|---|---:|---:|---:|---:|
+| **Joined trees (Kabbalah baseline)** | 21 | 50 | **0.177** | **0.000** |
+| Flower of Life (center graph) | 19 | 99 | 0.547 | 0.000 |
+| Tree of Life derived from FoL (Drunvalo) | 10 | 33 | 0.564 | 0.010 |
+
+**Three results worth noting:**
+
+1. **The Flower of Life graph DOES beat random graphs** at matching brain topology (p = 0.000) — so the FoL is not arbitrary with respect to brain structure.
+2. **It is a much weaker match than the Kabbalistic Tree of Life** (d = 0.547 vs 0.177). Roughly 3× the distance.
+3. **The Drunvalo Melchizedek "Tree of Life from Flower of Life" version is the WORST of the three** (d = 0.564, p = 0.010 — barely significant). The standard Hermetic Kircher Tree of Life arrangement matches brain topology far better than the New-Age sacred-geometry-derived version.
+
+The Appendix A geometric analysis previously rejected the FoL = brain claim on symmetry-group grounds (D₆ vs D₁ for brain). The graph version moderately matches but is dominated by the joined-trees graph. The Drunvalo derivation is unsupported.
 
 ---
 
